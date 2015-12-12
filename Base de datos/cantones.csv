@@ -1,234 +1,233 @@
-0101,Cuenca
-0102,Girón
-0103,Gualaceo
-0104,Nabón
-0105,Paute
-0106,Pucará
-0107,San Fernando
-0108,Santa Isabel
-0109,Sigsig
-0110,Oña
-0111,Chordeleg
-0112,El Pan
-0113,Sevilla de Oro
-0114,Guachapala
-0115,Camilo Ponce Enríquez
-0201,Guaranda
-0202,Chillanes
-0203,Chimbo
-0204,Echeandía
-0205,San Miguel
-0206,Caluma
-0207,Las Naves
-0301,Azogues
-0302,Biblián
-0303,Cañar
-0304,La Troncal
-0305,El Tambo
-0306,Déleg
-0307,Suscal
-0401,Tulcán
-0402,Bolívar
-0403,Espejo
-0404,Mira
-0405,Montúfar
-0406,San Pedro de Huaca
-0501,Latacunga
-0502,La Maná
-0503,Pangua
-0504,Pujilí
-0505,Salcedo
-0506,Saquisilí
-0507,Sigchos
-0601,Riobamba
-0602,Alausí
-0603,Colta
-0604,Chambo
-0605,Chunchi
-0606,Guamote
-0607,Guano
-0608,Pallatanga
-0609,Penipe
-0610,Cumandá
-0701,Machala
-0702,Arenillas
-0703,Atahualpa
-0704,Balsas
-0705,Chilla
-0706,El Guabo
-0707,Huaquillas
-0708,Marcabelí
-0709,Pasaje
-0710,Piñas
-0711,Portovelo
-0712,Santa Rosa
-0713,Zaruma
-0714,Las Lajas
-0801,Esmeraldas
-0802,Eloy Alfaro
-0803,Muisne
-0804,Quinindé
-0805,San Lorenzo
-0806,Atacames
-0807,Rioverde
-0901,Guayaquil
-0902,Alfredo Baquerizo Moreno (Juján)
-0903,Balao
-0904,Balzar
-0905,Colimes
-0906,Daule
-0907,Durán
-0908,El Empalme
-0909,El Triunfo
-0910,Milagro
-0911,Naranjal
-0912,Naranjito
-0913,Palestina
-0914,Pedro Carbo
-0915,Salinas
-0916,Samborondón
-0917,Santa Elena
-0918,Santa Lucía
-0919,Salitre (Urbina Jado)
-0920,San Jacinto de Yaguachi
-0921,Playas
-0922,Simón Bolívar
-0923,Coronel Marcelino Maridueña
-0924,Lomas de Sargentillo
-0925,Nobol
-0926,La Libertad
-0927,General Antonio Elizalde (Bucay)
-0928,Isidro Ayora
-1001,Ibarra
-1002,Antonio Ante
-1003,Cotacachi
-1004,Otavalo
-1005,Pimampiro
-1006,San Miguel de Urcuquí
-1101,Loja
-1102,Calvas
-1103,Catamayo
-1104,Celica
-1105,Chaguarpamba
-1106,Espíndola
-1107,Gonzanamá
-1108,Macará
-1109,Paltas
-1110,Puyango
-1111,Saraguro
-1112,Sozoranga
-1113,Zapotillo
-1114,Pindal
-1115,Quilanga
-1116,Olmedo
-1201,Babahoyo
-1202,Baba
-1203,Montalvo
-1204,Puebloviejo
-1205,Quevedo
-1206,Urdaneta
-1207,Ventanas
-1208,Vinces
-1209,Palenque
-1210,Buena Fé
-1211,Valencia
-1212,Mocache
-1213,Quinsaloma
-1301,Portoviejo
-1302,Bolívar
-1303,Chone
-1304,El Carmen
-1305,Flavio Alfaro
-1306,Jipijapa
-1307,Junín
-1308,Manta
-1309,Montecristi
-1310,Paján
-1311,Pichincha
-1312,Rocafuerte
-1313,Santa Ana
-1314,Sucre
-1315,Tosagua
-1316,24 de Mayo
-1317,Pedernales
-1318,Olmedo
-1319,Puerto López
-1320,Jama
-1321,Jaramijó
-1322,San Vicente
-1401,Morona
-1402,Gualaquiza
-1403,Limón Indanza
-1404,Palora
-1405,Santiago
-1406,Sucúa
-1407,Huamboya
-1408,San Juan Bosco
-1409,Taisha
-1410,Logroño
-1411,Pablo Sexto
-1412,Tiwintza
-1501,Tena
-1502,Aguarico
-1503,Archidona
-1504,El Chaco
-1505,La Joya de los Sachas
-1506,Orellana
-1507,Quijos
-1508,Loreto
-1509,Carlos Julio Arosemena Tola
-1601,Pastaza
-1602,Mera
-1603,Santa Clara
-1604,Arajuno
-1701,Quito
-1702,Cayambe
-1703,Mejía
-1704,Pedro Moncayo
-1705,Rumiñahui
-1706,Santo Domingo
-1707,San Miguel de los Bancos
-1708,Pedro Vicente Maldonado
-1709,Puerto Quito
-1801,Ambato
-1802,Baños de Agua Santa
-1803,Cevallos
-1804,Mocha
-1805,Patate
-1806,Quero
-1807,San Pedro de Pelileo
-1808,Santiago de Píllaro
-1809,Tisaleo
-1901,Zamora
-1902,Chinchipe
-1903,Nangaritza
-1904,Yacuambí
-1905,Yantzaza (Yanzatza)
-1906,El Pangui
-1907,Centinela del Cóndor
-1908,Palanda
-1909,Paquisha
-2001,San Cristóbal
-2002,Isabela
-2003,Santa Cruz
-2101,Lago Agrio
-2102,Gonzalo Pizarro
-2103,Putumayo
-2104,Shushufindi
-2105,Sucumbíos
-2106,Cascales
-2107,Cuyabeno
-2201,Orellana
-2202,Aguarico
-2203,La Joya de los Sachas
-2204,Loreto
-2301,Santo Domingo
-2302,La Concordia
-2401,Santa Elena
-2402,La Libertad
-2403,Salinas
-8800,Exterior
-9001,Las Golondrinas
-9003,Manga del Cura
-9004,El Piedrero"
-
+01,Cuenca,01
+02,Girón,01
+03,Gualaceo,01
+04,Nabón,01
+05,Paute,01
+06,Pucará,01
+07,San Fernando,01
+08,Santa Isabel,01
+09,Sigsig,01
+10,Oña,01
+11,Chordeleg,01
+12,El Pan,01
+13,Sevilla de Oro,01
+14,Guachapala,01
+15,Camilo Ponce Enríquez,01
+01,Guaranda,02
+02,Chillanes,02
+03,Chimbo,02
+04,Echeandía,02
+05,San Miguel,02
+06,Caluma,02
+07,Las Naves,02
+01,Azogues,03
+02,Biblián,03
+03,Cañar,03
+04,La Troncal,03
+05,El Tambo,03
+06,Déleg,03
+07,Suscal,03
+01,Tulcán,04
+02,Bolívar,04
+03,Espejo,04
+04,Mira,04
+05,Montúfar,04
+06,San Pedro de Huaca,04
+01,Latacunga,05
+02,La Maná,05
+03,Pangua,05
+04,Pujilí,05
+05,Salcedo,05
+06,Saquisilí,05
+07,Sigchos,05
+01,Riobamba,06
+02,Alausí,06
+03,Colta,06
+04,Chambo,06
+05,Chunchi,06
+06,Guamote,06
+07,Guano,06
+08,Pallatanga,06
+09,Penipe,06
+10,Cumandá,06
+01,Machala,07
+02,Arenillas,07
+03,Atahualpa,07
+04,Balsas,07
+05,Chilla,07
+06,El Guabo,07
+07,Huaquillas,07
+08,Marcabelí,07
+09,Pasaje,07
+10,Piñas,07
+11,Portovelo,07
+12,Santa Rosa,07
+13,Zaruma,07
+14,Las Lajas,07
+01,Esmeraldas,08
+02,Eloy Alfaro,08
+03,Muisne,08
+04,Quinindé,08
+05,San Lorenzo,08
+06,Atacames,08
+07,Rioverde,08
+01,Guayaquil,09
+02,Alfredo Baquerizo Moreno (Juján),09
+03,Balao,09
+04,Balzar,09
+05,Colimes,09
+06,Daule,09
+07,Durán,09
+08,El Empalme,09
+09,El Triunfo,09
+10,Milagro,09
+11,Naranjal,09
+12,Naranjito,09
+13,Palestina,09
+14,Pedro Carbo,09
+15,Salinas,09
+16,Samborondón,09
+17,Santa Elena,09
+18,Santa Lucía,09
+19,Salitre (Urbina Jado),09
+20,San Jacinto de Yaguachi,09
+21,Playas,09
+22,Simón Bolívar,09
+23,Coronel Marcelino Maridueña,09
+24,Lomas de Sargentillo,09
+25,Nobol,09
+26,La Libertad,09
+27,General Antonio Elizalde (Bucay),09
+28,Isidro Ayora,09
+01,Ibarra,10
+02,Antonio Ante,10
+03,Cotacachi,10
+04,Otavalo,10
+05,Pimampiro,10
+06,San Miguel de Urcuquí,10
+01,Loja,11
+02,Calvas,11
+03,Catamayo,11
+04,Celica,11
+05,Chaguarpamba,11
+06,Espíndola,11
+07,Gonzanamá,11
+08,Macará,11
+09,Paltas,11
+10,Puyango,11
+11,Saraguro,11
+12,Sozoranga,11
+13,Zapotillo,11
+14,Pindal,11
+15,Quilanga,11
+16,Olmedo,11
+01,Babahoyo,12
+02,Baba,12
+03,Montalvo,12
+04,Puebloviejo,12
+05,Quevedo,12
+06,Urdaneta,12
+07,Ventanas,12
+08,Vinces,12
+09,Palenque,12
+10,Buena Fé,12
+11,Valencia,12
+12,Mocache,12
+13,Quinsaloma,12
+01,Portoviejo,13
+02,Bolívar,13
+03,Chone,13
+04,El Carmen,13
+05,Flavio Alfaro,13
+06,Jipijapa,13
+07,Junín,13
+08,Manta,13
+09,Montecristi,13
+10,Paján,13
+11,Pichincha,13
+12,Rocafuerte,13
+13,Santa Ana,13
+14,Sucre,13
+15,Tosagua,13
+16,24 de Mayo,13
+17,Pedernales,13
+18,Olmedo,13
+19,Puerto López,13
+20,Jama,13
+21,Jaramijó,13
+22,San Vicente,13
+01,Morona,14
+02,Gualaquiza,14
+03,Limón Indanza,14
+04,Palora,14
+05,Santiago,14
+06,Sucúa,14
+07,Huamboya,14
+08,San Juan Bosco,14
+09,Taisha,14
+10,Logroño,14
+11,Pablo Sexto,14
+12,Tiwintza,14
+01,Tena,15
+02,Aguarico,15
+03,Archidona,15
+04,El Chaco,15
+05,La Joya de los Sachas,15
+06,Orellana,15
+07,Quijos,15
+08,Loreto,15
+09,Carlos Julio Arosemena Tola,15
+01,Pastaza,16
+02,Mera,16
+03,Santa Clara,16
+04,Arajuno,16
+01,Quito,17
+02,Cayambe,17
+03,Mejía,17
+04,Pedro Moncayo,17
+05,Rumiñahui,17
+06,Santo Domingo,17
+07,San Miguel de los Bancos,17
+08,Pedro Vicente Maldonado,17
+09,Puerto Quito,17
+01,Ambato,18
+02,Baños de Agua Santa,18
+03,Cevallos,18
+04,Mocha,18
+05,Patate,18
+06,Quero,18
+07,San Pedro de Pelileo,18
+08,Santiago de Píllaro,18
+09,Tisaleo,18
+01,Zamora,19
+02,Chinchipe,19
+03,Nangaritza,19
+04,Yacuambí,19
+05,Yantzaza (Yanzatza),19
+06,El Pangui,19
+07,Centinela del Cóndor,19
+08,Palanda,19
+09,Paquisha,19
+01,San Cristóbal,20
+02,Isabela,20
+03,Santa Cruz,20
+01,Lago Agrio,21
+02,Gonzalo Pizarro,21
+03,Putumayo,21
+04,Shushufindi,21
+05,Sucumbíos,21
+06,Cascales,21
+07,Cuyabeno,21
+01,Orellana,22
+02,Aguarico,22
+03,La Joya de los Sachas,22
+04,Loreto,22
+01,Santo Domingo,23
+02,La Concordia,23
+01,Santa Elena,24
+02,La Libertad,24
+03,Salinas,24
+00,Exterior,88
+01,Las Golondrinas,90
+03,Manga del Cura,90
+04,El Piedrero,90
