@@ -1,1631 +1,1630 @@
-01,Bellavista,01,,
-02,Cañaribamba,01,,
-03,El Batán,01,,
-04,El Sagrario,01,,
-05,El Vecino,01,,
-06,Gil Ramírez Dávalos,01,,
-07,Huaynacápac,01,,
-08,Machángara,01,,
-09,Monay,01,,
-10,San Blas,01,,
-11,San Sebastián,01,,
-12,Sucre,01,,
-13,Totoracocha,01,,
-14,Yanuncay,01,,
-15,Hermano Miguel,01,,
-50,Cuenca Cabecera Cantonal y Capital Provincial,01,,
-51,Baños,01,,
-52,Cumbe,01,,
-53,Chaucha,01,,
-54,Checa (Jidcay),01,,
-55,Chiquintad,01,,
-56,Llacao,01,,
-57,Molleturo,01,,
-58,Nulti,01,,
-59,Octavio Cordero Palacios (Santa Rosa),01,,
-60,Paccha,01,,
-61,Quingeo,01,,
-62,Ricaurte,01,,
-63,San Joaquín,01,,
-64,Santa Ana,01,,
-65,Sayausí,01,,
-66,Sidcay,01,,
-67,Sinincay,01,,
-68,Tarqui,01,,
-69,Turi,01,,
-70,Valle,01,,
-71,Victoria del Portete (Irquis),01,,
-99,Sin Especificar,01,,
-50,Girón Cabecera Cantonal,02,,
-51,Asunción,02,,
-52,San Gerardo,02,,
-99,Sin Especificar,02,,
-50,Gualaceo Cabecera Cantonal,03,,
-51,Chordeleg,03,,
-52,Daniel Córdova Toral (El Oriente),03,,
-53,Jadán,03,,
-54,Mariano Moreno,03,,
-55,Principal,03,,
-56,Remigio Crespo Toral (Gúlag),03,,
-57,San Juan,03,,
-58,Zhidmad,03,,
-59,Luis Cordero Vega,03,,
-60,Simón Bolívar (Cab. en Gañanzol),03,,
-99,Sin Especificar,03,,
-50,Nabón Cabecera Cantonal,04,,
-51,Cochapata,04,,
-52,El Progreso (Cab. en Zhota),04,,
-53,Las Nieves (Chaya),04,,
-54,Oña,04,,
-55,La Paz,04,,
-99,Sin Especificar,04,,
-50,Paute Cabecera Cantonal,05,,
-51,Amaluza,05,,
-52,Bulán (José Víctor Izquierdo),05,,
-53,Chicán (Guillermo Ortega),05,,
-54,El Cabo,05,,
-55,Guachapala,05,,
-56,Guarainag,05,,
-57,Palmas,05,,
-58,Pan,05,,
-59,San Cristóbal (Carlos Ordóñez Lazo),05,,
-60,Sevilla de Oro,05,,
-61,Tomebamba,05,,
-62,Dug Dug,05,,
-99,Sin Especificar,05,,
-50,Pucará Cabecera Cantonal,06,,
-51,Camilo Ponce Enríquez (Cab. en Río 7 de Mollepongo),06,,
-52,San Rafael de Shurug,06,,
-99,Sin Especificar,06,,
-50,San Fernando Cabecera Cantonal,07,,
-51,Chumblín,07,,
-99,Sin Especificar,07,,
-50,Santa Isabel (Chaguarurco) Cabecera Cantonal,08,,
-51,Abdón Calderón  (La Unión),08,,
-52,El Carmen de Pijilí,08,,
-53,Zhaglli (Shaglli),08,,
-54,San Salvador de Cañaribamba,08,,
-99,Sin Especificar,08,,
-50,Sigsig Cabecera Cantonal,09,,
-51,Cuchil (Cutchil),09,,
-52,Gima,09,,
-53,Guel,09,,
-54,Ludo,09,,
-55,San Bartolomé,09,,
-56,San José de Raranga,09,,
-99,Sin Especificar,09,,
-50,San Felipe de Oña Cabecera Cantonal,10,,
-51,Susudel,10,,
-99,Sin Especificar,10,,
-50,Chordeleg Cabecera Cantonal,11,,
-51,Principal,11,,
-52,La Unión,11,,
-53,Luis Galarza Orellana (Cab. en Delegsol),11,,
-54,San Martín de Puzhio,11,,
-99,Sin Especificar,11,,
-50,El Pan Cabecera Cantonal,12,,
-51,Amaluza,12,,
-52,Palmas,12,,
-53,San Vicente,12,,
-99,Sin Especificar,12,,
-50,Sevilla de Oro Cabecera Cantonal,13,,
-51,Amaluza,13,,
-52,Palmas,13,,
-99,Sin Especificar,13,,
-50,Guachapala Cabecera Cantonal,14,,
-99,Sin Especificar,14,,
-50,Camilo Ponce Enríquez Cabecera Cantonal,15,,
-51,El Carmen de Pijilí,15,,
-99,Sin Especificar,15,,
-01,Ángel Polibio Cháves,01,,
-02,Gabriel Ignacio Veintimilla,01,,
-03,Guanujo,01,,
-50,Guaranda Cabecera Cantonal y Capital Provincial,01,,
-51,Facundo Vela,01,,
-52,Guanujo,01,,
-53,Julio E. Moreno (Catanahuán Grande),01,,
-54,Las Naves,01,,
-55,Salinas,01,,
-56,San Lorenzo,01,,
-57,San Simón (Yacoto),01,,
-58,Santa Fé (Santa Fé),01,,
-59,Simiátug,01,,
-60,San Luis de Pambil,01,,
-99,Sin Especificar,01,,
-50,Chillanes Cabecera Cantonal,02,,
-51,San José del Tambo (Tambopamba),02,,
-99,Sin Especificar,02,,
-50,San José de Chimbo Cabecera Cantonal,03,,
-51,Asunción (Asancoto),03,,
-52,Caluma,03,,
-53,Magdalena (Chapacoto),03,,
-54,San Sebastián,03,,
-55,Telimbela,03,,
-99,Sin Especificar,03,,
-50,Echeandía Cabecera Cantonal,04,,
-99,Sin Especificar,04,,
-50,San Miguel Cabecera Cantonal,05,,
-51,Balsapamba,05,,
-52,Bilován,05,,
-53,Régulo de Mora,05,,
-54,San Pablo  (San Pablo de Atenas),05,,
-55,Santiago,05,,
-56,San Vicente,05,,
-99,Sin Especificar,05,,
-50,Caluma Cabecera Cantonal,06,,
-99,Sin Especificar,06,,
-01,Las Mercedes,07,,
-02,Las Naves,07,,
-50,Las Naves Cabecera Cantonal,07,,
-99,Sin Especificar,07,,
-01,Aurelio Bayas Martínez,01,,
-02,Azogues,01,,
-03,Borrero,01,,
-04,San Francisco,01,,
-50,Azogues,01,,
-51,Cojitambo,01,,
-52,Déleg,01,,
-53,Guapán,01,,
-54,Javier Loyola (Chuquipata),01,,
-55,Luis Cordero,01,,
-56,Pindilig,01,,
-57,Rivera,01,,
-58,San Miguel,01,,
-59,Solano,01,,
-60,Taday,01,,
-99,Sin Especificar,01,,
-50,Biblián Cabecera Cantonal,02,,
-51,Nazón (Cab. en Pampa de Domínguez),02,,
-52,San Francisco de Sageo,02,,
-53,Turupamba,02,,
-54,Jerusalén,02,,
-99,Sin Especificar,02,,
-50,Cañar Cabecera Cantonal,03,,
-51,Chontamarca,03,,
-52,Chorocopte,03,,
-53,General Morales (Socarte),03,,
-54,Gualleturo,03,,
-55,Honorato Vásquez (Tambo Viejo),03,,
-56,Ingapirca,03,,
-57,Juncal,03,,
-58,San Antonio,03,,
-59,Suscal,03,,
-60,Tambo,03,,
-61,Zhud,03,,
-62,Ventura,03,,
-63,Ducur,03,,
-99,Sin Especificar,03,,
-50,La Troncal,04,,
-51,Manuel J. Calle,04,,
-52,Pancho Negro,04,,
-99,Sin Especificar,04,,
-50,El Tambo Cabecera Cantonal,05,,
-99,Sin Especificar,05,,
-50,Déleg Cabecera Cantonal,06,,
-51,Solano,06,,
-99,Sin Especificar,06,,
-50,Suscal Cabecera Cantonal,07,,
-99,Sin Especificar,07,,
-01,González Suárez,01,,
-02,Tulcán,01,,
-50,Tulcán Cabecera Cantonal y Capital Provincial,01,,
-51,El Carmelo (El Pun),01,,
-52,Huaca,01,,
-53,Julio Andrade (Orejuela),01,,
-54,Maldonado,01,,
-55,Pioter,01,,
-56,Tobar Donoso (La Bocana de Camumbí),01,,
-57,Tufiño,01,,
-58,Urbina (Taya),01,,
-59,El Chical,01,,
-60,Mariscal Sucre,01,,
-61,Santa Martha de Cuba,01,,
-99,Sin Especificar,01,,
-50,Bolívar Cabecera Cantonal,02,,
-51,García Moreno,02,,
-52,Los Andes,02,,
-53,Monte Olivo,02,,
-54,San Vicente de Pusir,02,,
-55,San Rafael,02,,
-99,Sin Especificar,02,,
-01,El Ángel,03,,
-02,27 de Septiembre,03,,
-50,El Ángel Cabecera Cantonal,03,,
-51,El Goaltal,03,,
-52,La Libertad (Alizo),03,,
-53,San Isidro,03,,
-99,Sin Especificar,03,,
-50,Mira (Chontahuasi) Cabecera Cantonal,04,,
-51,Concepción,04,,
-52,Jijón y Caamaño (Cab. en Río Blanco),04,,
-53,Juan Montalvo (San Ignacio de Quil),04,,
-99,Sin Especificar,04,,
-01,González Suárez,05,,
-02,San José,05,,
-50,San Gabriel Cabecera Cantonal,05,,
-51,Cristóbal Colón,05,,
-52,Chitán de Navarrete,05,,
-53,Fernández Salvador,05,,
-54,La Paz,05,,
-55,Piartal,05,,
-99,Sin Especificar,05,,
-50,Huaca Cabecera Cantonal,06,,
-51,Mariscal Sucre,06,,
-99,Sin Especificar,06,,
-01,Eloy Alfaro (San Felipe),01,,
-02,Ignacio Flores (Parque Flores),01,,
-03,Juan Montalvo (San Sebastián),01,,
-04,La Matriz,01,,
-05,San Buenaventura,01,,
-50,Latacunga Cabecera Cantonal y Capital Provincial,01,,
-51,Alaques (Aláquez),01,,
-52,Belisario Quevedo (Guanailín),01,,
-53,Guaitacama (Guaytacama),01,,
-54,Joseguango Bajo,01,,
-55,Las Pampas,01,,
-56,Mulaló,01,,
-57,11 de Noviembre (Ilinchisi),01,,
-58,Poaló,01,,
-59,San Juan de Pastocalle,01,,
-60,Sigchos,01,,
-61,Tanicuchí,01,,
-62,Toacaso,01,,
-63,Palo Quemado,01,,
-99,Sin Especificar,01,,
-01,El Carmen,02,,
-02,La Maná,02,,
-03,El Triunfo,02,,
-50,La Maná Cabecera Cantonal,02,,
-51,Guasaganda (Cab. en Guasaganda Centro),02,,
-52,Pucayacu,02,,
-99,Sin Especificar,02,,
-50,El Corazón,03,,
-51,Moraspungo,03,,
-52,Pinllopata,03,,
-53,Ramón Campaña,03,,
-99,Sin Especificar,03,,
-50,Pujilí Cabecera Cantonal,04,,
-51,Angamarca,04,,
-52,Chucchilán (Chugchilán),04,,
-53,Guangaje,04,,
-54,Isinlibí (Isinliví),04,,
-55,La Victoria,04,,
-56,Pilaló,04,,
-57,Tingo,04,,
-58,Zumbahua,04,,
-99,Sin Especificar,04,,
-50,San Miguel Cabecera Cantonal,05,,
-51,Antonio José Holguín  (Santa Lucía),05,,
-52,Cusubamba,05,,
-53,Mulalillo,05,,
-54,Mulliquindil (Santa Ana),05,,
-55,Pansaleo,05,,
-99,Sin Especificar,05,,
-50,Saquisilí Cabecera Cantonal,06,,
-51,Canchagua,06,,
-52,Chantilín,06,,
-53,Cochapamba,06,,
-99,Sin Especificar,06,,
-50,Sigchos Cabecera Cantonal,07,,
-51,Chugchillán,07,,
-52,Isinliví,07,,
-53,Las Pampas,07,,
-54,Palo Quemado,07,,
-99,Sin Especificar,07,,
-01,Lizarzaburu,01,,
-02,Maldonado,01,,
-03,Velasco,01,,
-04,Veloz,01,,
-05,Yaruquíes,01,,
-50,Riobamba Cabecera Cantonal y Capital Provincial,01,,
-51,Cacha (Cab. en Machángara),01,,
-52,Calpi,01,,
-53,Cubijíes,01,,
-54,Flores,01,,
-55,Licán,01,,
-56,Licto,01,,
-57,Pungalá,01,,
-58,Punín,01,,
-59,Quimiag,01,,
-60,San Juan,01,,
-61,San Luis,01,,
-99,Sin Especificar,01,,
-50,Alausí Cabecera Cantonal,02,,
-51,Achupallas,02,,
-52,Cumandá,02,,
-53,Guasuntos,02,,
-54,Huigra,02,,
-55,Multitud,02,,
-56,Pistishí (Nariz del Diablo),02,,
-57,Pumallacta,02,,
-58,Sevilla,02,,
-59,Sibambe,02,,
-60,Tixán,02,,
-99,Sin Especificar,02,,
-01,Cajabamba,03,,
-02,Sicalpa,03,,
-50,Villa La Unión (Cajabamba) Cabecera Cantonal,03,,
-51,Cañi,03,,
-52,Columbe,03,,
-53,Juan de Velasco (Pangor),03,,
-54,Santiago de Quito (Cab. en San Antonio de Quito),03,,
-99,Sin Especificar,03,,
-50,Chambo Cabecera Cantonal,04,,
-99,Sin Especificar,04,,
-50,Chunchi Cabecera Cantonal,05,,
-51,Capzol,05,,
-52,Compud,05,,
-53,Gonzol,05,,
-54,Llagos,05,,
-99,Sin Especificar,05,,
-50,Guamote Cabecera Cantonal,06,,
-51,Cebadas,06,,
-52,Palmira,06,,
-99,Sin Especificar,06,,
-01,El Rosario,07,,
-02,La Matriz,07,,
-50,Guano Cabecera Cantonal,07,,
-51,Guanando,07,,
-52,Ilapo,07,,
-53,La Providencia,07,,
-54,San Andrés,07,,
-55,San Gerardo de Pacaicaguán,07,,
-56,San Isidro de Patulú,07,,
-57,San José del Chazo,07,,
-58,Santa Fé de Galán,07,,
-59,Valparaíso,07,,
-99,Sin Especificar,07,,
-50,Pallatanga Cabecera Cantonal,08,,
-99,Sin Especificar,08,,
-50,Penipe Cabecera Cantonal,09,,
-51,El Altar,09,,
-52,Matus,09,,
-53,Puela,09,,
-54,San Antonio de Bayushig,09,,
-55,La Candelaria,09,,
-56,Bilbao (Cab. en Quilluyacu),09,,
-99,Sin Especificar,09,,
-50,Cumandá Cabecera Cantonal,10,,
-99,Sin Especificar,10,,
-01,La Providencia,01,,
-02,Machala,01,,
-03,Puerto Bolívar,01,,
-04,Nueve de Mayo,01,,
-05,El Cambio,01,,
-50,Machala Cabecera Cantonal y Capital Provincial,01,,
-51,El Cambio,01,,
-52,El Retiro,01,,
-99,Sin Especificar,01,,
-50,Arenillas Cabecera Cantonal,02,,
-51,Chacras,02,,
-52,La Libertad,02,,
-53,Las Lajas (Cab. en la Victoria),02,,
-54,Palmales,02,,
-55,Carcabón,02,,
-99,Sin Especificar,02,,
-50,Paccha Cabecera Cantonal,03,,
-51,Ayapamba,03,,
-52,Cordoncillo,03,,
-53,Milagro,03,,
-54,San José,03,,
-55,San Juan de Cerro Azul,03,,
-99,Sin Especificar,03,,
-50,Balsas Cabecera Cantonal,04,,
-51,Bellamaría,04,,
-99,Sin Especificar,04,,
-50,Chilla Cabecera Cantonal,05,,
-99,Sin Especificar,05,,
-50,El Guabo Cabecera Cantonal,06,,
-51,Barbones (Sucre),06,,
-52,La Iberia,06,,
-53,Tendales (Cab. en Puerto Tendales),06,,
-54,Río Bonito,06,,
-99,Sin Especificar,06,,
-01,Ecuador,07,,
-02,El Paraíso,07,,
-03,Hualtaco,07,,
-04,Milton Reyes,07,,
-05,Unión Lojana,07,,
-50,Huaquillas Cabecera Cantonal,07,,
-99,Sin Especificar,07,,
-50,Marcabelí Cabecera Cantonal,08,,
-51,El Ingenio,08,,
-99,Sin Especificar,08,,
-01,Bolívar,09,,
-02,Loma de Franco,09,,
-03,Ochoa León (Matriz),09,,
-04,Tres Cerritos,09,,
-50,Pasaje Cabecera Cantonal,09,,
-51,Buenavista,09,,
-52,Casacay,09,,
-53,La Peaña,09,,
-54,Progreso,09,,
-55,Uzhcurrumi,09,,
-56,Cañaquemada,09,,
-99,Sin Especificar,09,,
-01,La Matriz,10,,
-02,La Susaya,10,,
-03,Piñas Grande,10,,
-50,Piñas Cabecera Cantonal,10,,
-51,Capiro (Cab. en La Capilla de Capiro),10,,
-52,La Bocana,10,,
-53,Moromoro (Cab. en El Vado),10,,
-54,Piedras,10,,
-55,San Roque (Ambrosio Maldonado),10,,
-56,Saracay,10,,
-99,Sin Especificar,10,,
-50,Portovelo Cabecera Cantonal,11,,
-51,Curtincapa,11,,
-52,Morales,11,,
-53,Salatí,11,,
-99,Sin Especificar,11,,
-01,Santa Rosa,12,,
-02,Puerto Jelí,12,,
-03,Balnerio Jambelí (Satélite),12,,
-04,Jumón (Satélite),12,,
-05,Nuevo Santa Rosa,12,,
-50,Santa Rosa Cabecera Cantonal,12,,
-51,Bellavista,12,,
-52,Jambelí,12,,
-53,La Avanzada,12,,
-54,San Antonio,12,,
-55,Torata,12,,
-56,Victoria,12,,
-57,Bellamaría,12,,
-99,Sin Especificar,12,,
-50,Zaruma Cabecera Cantonal,13,,
-51,Abañín,13,,
-52,Arcapamba,13,,
-53,Guanazán,13,,
-54,Guizhaguiña,13,,
-55,Huertas,13,,
-56,Malvas,13,,
-57,Muluncay Grande,13,,
-58,Sinsao,13,,
-59,Salvias,13,,
-99,Sin Especificar,13,,
-01,La Victoria,14,,
-02,Platanillos,14,,
-03,Valle Hermoso,14,,
-50,La Victoria Cabecera Cantonal,14,,
-51,La Libertad,14,,
-52,El Paraíso,14,,
-53,San Isidro,14,,
-99,Sin Especificar,14,,
-01,Bartolomé Ruiz (César Franco Carrión),01,,
-02,5 de Agosto,01,,
-03,Esmeraldas,01,,
-04,Luis Tello (Las Palmas),01,,
-05,Simón Plata Torres,01,,
-50,Esmeraldas Cabecera Cantonal y Capital Provincial,01,,
-51,Atacames,01,,
-52,Camarones (Cab. en San Vicente),01,,
-53,Crnel. Carlos Concha Torres (Cab. en Huele),01,,
-54,Chinca,01,,
-55,Chontaduro,01,,
-56,Chumundé,01,,
-57,Lagarto,01,,
-58,La Unión,01,,
-59,Majua,01,,
-60,Montalvo (Cab. en Horqueta),01,,
-61,Río Verde,01,,
-62,Rocafuerte,01,,
-63,San Mateo,01,,
-64,Súa (Cab. en La Bocana),01,,
-65,Tabiazo,01,,
-66,Tachina,01,,
-67,Tonchigüe,01,,
-68,Vuelta Larga,01,,
-99,Sin Especificar,01,,
-50,Valdez (Limones) Cabecera Cantonal,02,,
-51,Anchayacu,02,,
-52,Atahualpa (Cab. en Camarones),02,,
-53,Borbon,02,,
-54,La Tola,02,,
-55,Luis Vargas Torres (Cab. en Playa de Oro),02,,
-56,Maldonado,02,,
-57,Pampanal de Bolívar,02,,
-58,San Francisco de Onzole,02,,
-59,Santo Domingo de Onzole,02,,
-60,Selva Alegre,02,,
-61,Telembi,02,,
-62,Colón Eloy del María,02,,
-63,San José de Cayapas,02,,
-64,Timbire,02,,
-65,Santa Lucia de las Peñas,02,,
-99,Sin Especificar,02,,
-50,Muisne Cabecera Cantonal,03,,
-51,Bolívar,03,,
-52,Daule,03,,
-53,Galera,03,,
-54,Quingue (Olmedo Perdomo Franco),03,,
-55,Salima,03,,
-56,San Francisco,03,,
-57,San Gregorio,03,,
-58,San José de Chamanga (Cab. en Chamanga),03,,
-99,Sin Especificar,03,,
-50,Rosa Zárate (Quinindé) Cabecera Cantonal,04,,
-51,Cube,04,,
-52,Chura (Chancama) (Cab. en El Yerbero),04,,
-53,Malimpia,04,,
-54,Viche,04,,
-55,La Unión,04,,
-99,Sin Especificar,04,,
-50,San Lorenzo Cabecera Cantonal,05,,
-51,Alto Tambo (Cab. en Guadual),05,,
-52,Ancón (Pichangal) (Cab. en Palma Real),05,,
-53,Calderón,05,,
-54,Carondelet,05,,
-55,5 de Junio (Cab. en Uimbi),05,,
-56,Concepción,05,,
-57,Mataje (Cab. en Santander),05,,
-58,San Javier de Cachaví (Cab. en San Javier),05,,
-59,Santa Rita,05,,
-60,Tambillo,05,,
-61,Tululbí (Cab. en Ricaurte),05,,
-62,Urbina,05,,
-99,Sin Especificar,05,,
-50,Atacames Cabecera Cantonal,06,,
-51,La Unión,06,,
-52,Súa  (Cab. en La Bocana),06,,
-53,Tonchigue,06,,
-54,Tonsupa,06,,
-99,Sin Especificar,06,,
-50,Rioverde Cabecera Cantonal,07,,
-51,Chontaduro,07,,
-52,Chumundé,07,,
-53,Lagarto,07,,
-54,Montalvo (Cab. en Horqueta),07,,
-55,Rocafuerte,07,,
-99,Sin Especificar,07,,
-01,Ayacucho,01,,
-02,Bolívar (Sagrario),01,,
-03,Carbo (Concepción),01,,
-04,Febres Cordero,01,,
-05,García Moreno,01,,
-06,Letamenci,01,,
-07,Nueve de Octubre,01,,
-08,Olmedo (San Alejo),01,,
-09,Roca,01,,
-10,Rocafuerte,01,,
-11,Sucre,01,,
-12,Tarqui,01,,
-13,Urdaneta,01,,
-14,Ximena,01,,
-15,Pascuales,01,,
-50,Guayaquil Cabecera Cantonal y Capital Provincial,01,,
-51,Chongón,01,,
-52,Juan Gómez Rendón (Progreso),01,,
-53,Morro,01,,
-54,Pascuales,01,,
-55,Playas (Gral. Villamil),01,,
-56,Posorja,01,,
-57,Puná,01,,
-58,Tenguel,01,,
-99,Sin Especificar,01,,
-50,Alfredo Baquerizo Moreno (Juján) Cabecera Cantonal,02,,
-99,Sin Especificar,02,,
-50,Balao Cabecera Cantonal,03,,
-99,Sin Especificar,03,,
-50,Balzar Cabecera Cantonal,04,,
-99,Sin Especificar,04,,
-50,Colimes Cabecera Cantonal,05,,
-51,San Jacinto,05,,
-99,Sin Especificar,05,,
-01,Daule,06,,
-02,La Aurora (Satélite),06,,
-03,Banife,06,,
-04,Emiliano Caicedo Marcos,06,,
-05,Magro,06,,
-06,Padre Juan Bautista Aguirre,06,,
-07,Santa Clara,06,,
-08,Vicente Piedrahita,06,,
-50,Daule Cabecera Cantonal,06,,
-51,Isidro Ayora (Soledad),06,,
-52,Juan Bautista Aguirre (Los Tintos),06,,
-53,Laurel,06,,
-54,Limonal,06,,
-55,Lomas de Sargentillo,06,,
-56,Los Lojas (Enrique Baquerizo Moreno),06,,
-57,Piedrahita (Nobol),06,,
-99,Sin Especificar,06,,
-01,Eloy Alfaro (Durán),07,,
-02,El Recreo,07,,
-50,Eloy Alfaro (Durán) Cabecera Cantonal,07,,
-99,Sin Especificar,07,,
-50,Velasco Ibarra (El Empalme) Cabecera Cantonal,08,,
-51,Guayas (Pueblo Nuevo),08,,
-52,El Rosario,08,,
-99,Sin Especificar,08,,
-50,El Triunfo Cabecera Cantonal,09,,
-99,Sin Especificar,09,,
-50,Milagro Cabecera Cantonal,10,,
-51,Chobo,10,,
-52,General Elizalde (Bucay),10,,
-53,Mariscal Sucre (Huaques),10,,
-54,Roberto Astudillo (Cab. en Cruce de Venecia),10,,
-99,Sin Especificar,10,,
-50,Naranjal Cabecera Cantonal,11,,
-51,Jesús María,11,,
-52,San Carlos,11,,
-53,Santa Rosa de Flandes,11,,
-54,Taura,11,,
-99,Sin Especificar,11,,
-50,Naranjito Cabecera Cantonal,12,,
-99,Sin Especificar,12,,
-50,PalestinaCabecera Cantonal,13,,
-99,Sin Especificar,13,,
-50,Pedro Carbo Cabecera Cantonal,14,,
-51,Valle de la Virgen,14,,
-52,Sabanilla,14,,
-99,Sin Especificar,14,,
-01,Samborondón,16,,
-02,La Puntilla (Satélite),16,,
-50,Samborondón Cabecera Cantonal,16,,
-51,Tarifa,16,,
-99,Sin Especificar,16,,
-50,Santa Lucía Cabecera Cantonal,18,,
-99,Sin Especificar,18,,
-01,Bocana,19,,
-02,Candilejos,19,,
-03,Central,19,,
-04,Paraíso,19,,
-05,San Mateo,19,,
-50,El Salitre (Las Ramas)  Cabecera Cantonal,19,,
-51,Gral. Vernaza (Dos Esteros),19,,
-52,La Victoria (Ñauza),19,,
-53,Junquillal,19,,
-99,Sin Especificar,19,,
-50,San Jacinto de Yaguachi Cabecera Cantonal,20,,
-51,Crnel. Lorenzo de Garaicoa (Pedregal),20,,
-52,Crnel. Marcelino Maridueña (San Carlos),20,,
-53,Gral. Pedro J. Montero (Boliche),20,,
-54,Simón Bolívar,20,,
-55,Yaguachi Viejo (Cone),20,,
-56,Virgen de Fátima,20,,
-99,Sin Especificar,20,,
-50,General Villamil (Playas) Cabecera Cantonal,21,,
-99,Sin Especificar,21,,
-50,Simón Bolívar Cabecera Cantonal,22,,
-51,Crnel.Lorenzo de Garaicoa (Pedregal),22,,
-99,Sin Especificar,22,,
-50,Coronel Marcelino Maridueña (San Carlos) Cabecera Cantonal,23,,
-99,Sin Especificar,23,,
-50,Lomas de Sargentillo Cabecera Cantonal,24,,
-51,Isidro Ayora (Soledad),24,,
-99,Sin Especificar,24,,
-50,Narcisa de Jesús (Nobol) Cabecera Cantonal,25,,
-99,Sin Especificar,25,,
-50,General Antonio Elizalde (Bucay) Cabecera Cantonal,27,,
-99,Sin Especificar,27,,
-50,Isidro Ayora Cabecera Cantonal,28,,
-99,Sin Especificar,28,,
-01,Caranqui,01,,
-02,Guayaquil de Alpachaca,01,,
-03,Sagrario,01,,
-04,San Francisco,01,,
-05,La Dolorosa del Priorato,01,,
-50,San Miguel de Ibarra Cabecera Cantonal y Capital Provincial,01,,
-51,Ambuquí,01,,
-52,Angochagua,01,,
-53,Carolina,01,,
-54,La Esperanza,01,,
-55,Lita,01,,
-56,Salinas,01,,
-57,San Antonio,01,,
-99,Sin Especificar,01,,
-01,Andrade Marín (Lourdes),02,,
-02,Atuntaqui,02,,
-50,Atuntaqui Cabecera Cantonal,02,,
-51,Imbaya (San Luis de Cobuendo),02,,
-52,San Francisco de Natabuela,02,,
-53,San José de Chaltura,02,,
-54,San Roque,02,,
-99,Sin Especificar,02,,
-01,Sagrario,03,,
-02,San Francisco,03,,
-50,Cotacachi Cabecera Cantonal,03,,
-51,Apuela,03,,
-52,García Moreno (Llurimagua),03,,
-53,Imantag,03,,
-54,Peñaherrera,03,,
-55,Plaza Gutiérrez (Calvario),03,,
-56,Quiroga,03,,
-57,6 de Julio de Cuellaje (Cab. en Cuellaje),03,,
-58,Vacas Galindo (El Churo) (Cab.en San Miguel Alto),03,,
-99,Sin Especificar,03,,
-01,Jordán,04,,
-02,San Luis,04,,
-50,Otavalo Cabecera Cantonal,04,,
-51,Dr. Miguel Egas Cabezas (Peguche),04,,
-52,Eugenio Espejo (Calpaquí),04,,
-53,González Suárez,04,,
-54,Pataquí,04,,
-55,San José de Quichinche,04,,
-56,San Juan de Ilumán,04,,
-57,San Pablo,04,,
-58,San Rafael,04,,
-59,Selva Alegre (Cab. en San Miguel de Pamplona),04,,
-99,Sin Especificar,04,,
-50,Pimampiro,05,,
-51,Chugá,05,,
-52,Mariano Acosta,05,,
-53,San Francisco de Sigsipamba,05,,
-99,Sin Especificar,05,,
-50,Urcuquí Cabecera Cantonal,06,,
-51,Cahuasquí,06,,
-52,La Merced de Buenos Aires,06,,
-53,Pablo Arenas,06,,
-54,San Blas,06,,
-55,Tumbabiro,06,,
-99,Sin Especificar,06,,
-01,El Sagrario,01,,
-02,San Sebastián,01,,
-03,Sucre,01,,
-04,Valle,01,,
-50,Loja Cabecera Cantonal y Capital Provincial,01,,
-51,Chantaco,01,,
-52,Chuquiribamba,01,,
-53,El Cisne,01,,
-54,Gualel,01,,
-55,Jimbilla,01,,
-56,Malacatos (Valladolid),01,,
-57,San Lucas,01,,
-58,San Pedro de Vilcabamba,01,,
-59,Santiago,01,,
-60,Taquil (Miguel Riofrío),01,,
-61,Vilcabamba  (Victoria),01,,
-62,Yangana (Arsenio Castillo),01,,
-63,Quinara,01,,
-99,Sin Especificar,01,,
-01,Cariamanga,02,,
-02,Chile,02,,
-03,San Vicente,02,,
-50,Cariamanga Cabecera Cantonal,02,,
-51,Colaisaca,02,,
-52,El Lucero,02,,
-53,Utuana,02,,
-54,Sanguillín,02,,
-99,Sin Especificar,02,,
-01,Catamayo,03,,
-02,San José,03,,
-50,Catamayo (La Toma) Cabecera Cantonal,03,,
-51,El Tambo,03,,
-52,Guayquichuma,03,,
-53,San Pedro de la Bendita,03,,
-54,Zambi,03,,
-99,Sin Especificar,03,,
-50,Celica Cabecera Cantonal,04,,
-51,Cruzpamba (Cab. en Carlos Bustamante),04,,
-52,Chaquinal,04,,
-53,12 de Diciembre (Cab. en Achiotes),04,,
-54,Pindal (Federico Páez),04,,
-55,Pozul (San Juan de Pozul),04,,
-56,Sabanilla,04,,
-57,Tnte. Maximiliano Rodríguez Loaiza,04,,
-99,Sin Especificar,04,,
-50,Chaguarpamba,05,,
-51,Buenavista,05,,
-52,El Rosario,05,,
-53,Santa Rufina,05,,
-54,Amarillos,05,,
-99,Sin Especificar,05,,
-50,Amaluza Cabecera Cantonal,06,,
-51,Bellavista,06,,
-52,Jimbura,06,,
-53,Santa Teresita,06,,
-54,27 de Abril (Cab. en La Naranja),06,,
-55,El Ingenio,06,,
-56,El Airo,06,,
-99,Sin Especificar,06,,
-50,Gonzanamá Cabecera Cantonal,07,,
-51,Changaimina (La Libertad),07,,
-52,Fundochamba,07,,
-53,Nambacola,07,,
-54,Purunuma (Eguiguren),07,,
-55,Quilanga (La Paz),07,,
-56,Sacapalca,07,,
-57,San Antonio de las Aradas (Cab. en las Aradas),07,,
-99,Sin Especificar,07,,
-01,General Eloy Alfaro (San Sebastián),08,,
-02,Macará  (Manuel Enrique Rengel Suquilanda),08,,
-50,Macará Cabecera Cantonal,08,,
-51,Larama,08,,
-52,La Victoria,08,,
-53,Sabiango (La Capilla),08,,
-99,Sin Especificar,08,,
-01,Catacocha,09,,
-02,Lourdes,09,,
-50,Catacocha Cabecera Cantonal,09,,
-51,Cangonamá,09,,
-52,Guachanamá,09,,
-53,La Tingue,09,,
-54,Lauro Guerrero,09,,
-55,Olmedo (Santa Bárbara),09,,
-56,Orianga,09,,
-57,San Antonio,09,,
-58,Casanga,09,,
-59,Yamana,09,,
-99,Sin Especificar,09,,
-50,Alamor Cabecera Cantonal,10,,
-51,Ciano,10,,
-52,El Arenal,10,,
-53,El Limo (Mariana de Jesús),10,,
-54,Mercadillo,10,,
-55,Vicentino,10,,
-99,Sin Especificar,10,,
-50,Saraguro Cabecera Cantonal,11,,
-51,El Paraíso de Celén,11,,
-52,El Tablón,11,,
-53,Lluzhapa,11,,
-54,Manú,11,,
-55,San Antonio de Qumbe (Cumbe),11,,
-56,San Pablo de Tenta,11,,
-57,San Sebastián de Yúluc,11,,
-58,Selva Alegre,11,,
-59,Urdaneta (Paquishapa),11,,
-60,Sumaypamba,11,,
-99,Sin Especificar,11,,
-50,Sozoranga Cabecera Cantonal,12,,
-51,Nueva Fátima,12,,
-52,Tacamoros,12,,
-99,Sin Especificar,12,,
-50,Zapotillo Cabecera Cantonal,13,,
-51,Mangahurco,13,,
-52,Garzareal,13,,
-53,Limones,13,,
-54,Paletillas,13,,
-55,Bolaspamba,13,,
-56,Cazaderos,13,,
-99,Sin Especificar,13,,
-50,Pindal Cabecera Cantonal,14,,
-51,Chaquinal,14,,
-52,12 de Diciembre (Cab. en Achiotes),14,,
-53,Milagros,14,,
-99,Sin Especificar,14,,
-50,Quilanga Cabecera Cantonal,15,,
-51,Fundochamba,15,,
-52,San Antonio de Las Aradas (Cab. en Las Aradas),15,,
-99,Sin Especificar,15,,
-50,Olmedo Cabecera Cantonal,16,,
-51,La Tingue,16,,
-99,Sin Especificar,16,,
-01,Clemente Baquerizo,01,,
-02,Dr. Camilo Ponce,01,,
-03,Barreiro,01,,
-04,El Salto,01,,
-50,Babahoyo Cabecera Cantonal y Capital Provincial,01,,
-51,Barreiro (Santa Rita),01,,
-52,Caracol,01,,
-53,Febres Cordero (Las Juntas) (Cab. en Mata de Cacao),01,,
-54,Pimocha,01,,
-55,La Unión,01,,
-99,Sin Especificar,01,,
-50,Baba Cabecera Cantonal,02,,
-51,Guare,02,,
-52,Isla de Bejuca,02,,
-99,Sin Especificar,02,,
-50,Montalvo Cabecera Cantonal,03,,
-51,La Esmeralda,03,,
-99,Sin Especificar,03,,
-50,Puebloviejo Cabecera Cantonal,04,,
-51,Puerto Pechiche,04,,
-52,San Juan,04,,
-99,Sin Especificar,04,,
-01,Quevedo,05,,
-02,San Camilo,05,,
-03,San José,05,,
-04,Guayacán,05,,
-05,Nicolás Infante Díaz,05,,
-06,San Cristóbal,05,,
-07,Siete de Octubre,05,,
-08,24 de Mayo,05,,
-09,Venus del Río Quevedo,05,,
-10,Viva Alfaro,05,,
-50,Quevedo Cabecera Cantonal,05,,
-51,Buena Fé,05,,
-52,Mocache,05,,
-53,San Carlos,05,,
-54,Valencia,05,,
-55,La Esperanza,05,,
-99,Sin Especificar,05,,
-50,Catarama Cabecera Cantonal,06,,
-51,Ricaurte,06,,
-99,Sin Especificar,06,,
-01,10 de Noviembre,07,,
-50,Ventanas Cabecera Cantonal,07,,
-51,Quinsaloma,07,,
-52,Zapotal,07,,
-53,Chacarita,07,,
-54,Los Ángeles,07,,
-99,Sin Especificar,07,,
-50,Vinces Cabecera Cantonal,08,,
-51,Antonio Sotomayor (Cab. en Playas de Vinces),08,,
-52,Palenque,08,,
-99,Sin Especificar,08,,
-50,Palenque Cabecera Cantonal,09,,
-99,Sin Especificar,09,,
-01,San Jacinto de Buena Fé,10,,
-02,7 de Agosto,10,,
-03,11 de Octubre,10,,
-50,San Jacinto de Buena Fé Cabecera Cantonal,10,,
-51,Patricia Pilar,10,,
-99,Sin Especificar,10,,
-50,Valencia Cabecera Cantonal,11,,
-99,Sin Especificar,11,,
-50,Mocache Cabecera Cantonal,12,,
-99,Sin Especificar,12,,
-50,Quinsaloma Cabecera Cantonal,13,,
-99,Sin Especificar,13,,
-01,Portoviejo,01,,
-02,12 de Marzo,01,,
-03,Colón,01,,
-04,Picoazá,01,,
-05,San Pablo,01,,
-06,Andrés de Vera,01,,
-07,Francisco Pacheco,01,,
-08,18 de Octubre,01,,
-09,Simón Bolívar,01,,
-50,Portoviejo Cabecera Cantonal y Capital Provincial,01,,
-51,Abdón Calderón (San Francisco),01,,
-52,Alhajuela (Bajo Grande),01,,
-53,Crucita,01,,
-54,Pueblo Nuevo,01,,
-55,Riochico (Río Chico),01,,
-56,San Plácido,01,,
-57,Chirijos,01,,
-99,Sin Especificar,01,,
-50,Calceta Cabecera Cantonal,02,,
-51,Membrillo,02,,
-52,Quiroga,02,,
-99,Sin Especificar,02,,
-01,Chone,03,,
-02,Santa Rita,03,,
-50,Chone Cabecera Cantonal,03,,
-51,Boyacá,03,,
-52,Canuto,03,,
-53,Convento,03,,
-54,Chibunga,03,,
-55,Eloy Alfaro,03,,
-56,Ricaurte,03,,
-57,San Antonio,03,,
-99,Sin Especificar,03,,
-01,El Carmen,04,,
-02,4de Diciembre,04,,
-50,El Carmen Cabecera Cantonal,04,,
-51,Wilfrido Loor Moreira (Maicito),04,,
-52,San Pedro de Suma,04,,
-99,Sin Especificar,04,,
-50,Flavio Alfaro Cabecera Cantonal,05,,
-51,San Francisco de Novillo (Cab. en Novillo),05,,
-52,Zapallo,05,,
-99,Sin Especificar,05,,
-01,Dr. Miguel Morán Lucio,06,,
-02,Manuel Inocencio Parrales y Guale,06,,
-03,San Lorenzo de Jipijapa,06,,
-50,Jipijapa Cabecera Cantonal,06,,
-51,América,06,,
-52,El Anegado (Cab. en Eloy Alfaro),06,,
-53,Julcuy,06,,
-54,La Unión,06,,
-55,Machalilla,06,,
-56,Membrillal,06,,
-57,Pedro Pablo Gómez,06,,
-58,Puerto de Cayo,06,,
-59,Puerto López,06,,
-99,Sin Especificar,06,,
-50,Junín Cabecera Cantonal,07,,
-99,Sin Especificar,07,,
-01,Los Esteros,08,,
-02,Manta,08,,
-03,San Mateo,08,,
-04,Tarqui,08,,
-05,Eloy Alfaro,08,,
-50,Manta Cabecera Cantonal,08,,
-51,San Lorenzo,08,,
-52,Santa Marianita (Boca de Pacoche),08,,
-99,Sin Especificar,08,,
-01,Anibal San Andrés,09,,
-02,Montecristi,09,,
-03,El Colorado,09,,
-04,General Eloy Alfaro,09,,
-05,Leonidas Proaño,09,,
-50,Montecristi Cabecera Cantonal,09,,
-51,Jaramijó,09,,
-52,La Pila,09,,
-99,Sin Especificar,09,,
-50,Paján Cabecera Cantonal,10,,
-51,Campozano (La Palma de Paján),10,,
-52,Cascol,10,,
-53,Guale,10,,
-54,Lascano,10,,
-99,Sin Especificar,10,,
-50,Pichincha Cabecera Cantonal,11,,
-51,Barraganete,11,,
-52,San Sebastián,11,,
-99,Sin Especificar,11,,
-50,Rocafuerte Cabecera Cantonal,12,,
-99,Sin Especificar,12,,
-01,Santa Ana,13,,
-02,Lodana,13,,
-50,Santa Ana de Vuelta Larga Cabecera Cantonal,13,,
-51,Ayacucho,13,,
-52,Honorato Vásquez (Cab. en Vásquez),13,,
-53,La Unión,13,,
-54,Olmedo,13,,
-55,San Pablo (Cab. en Pueblo Nuevo),13,,
-99,Sin Especificar,13,,
-01,Bahía de Caráquez,14,,
-02,Leonidas Plaza Gutiérrez,14,,
-50,Bahía de Caráquez Cabecera Cantonal,14,,
-51,Canoa,14,,
-52,Cojimíes,14,,
-53,Charapotó,14,,
-54,10 de Agosto,14,,
-55,Jama,14,,
-56,Pedernales,14,,
-57,San Isidro,14,,
-58,San Vicente,14,,
-99,Sin Especificar,14,,
-50,Tosagua Cabecera Cantonal,15,,
-51,Bachillero,15,,
-52,Ángel Pedro Giler (La Estancilla),15,,
-99,Sin Especificar,15,,
-50,Sucre Cabecera Cantonal,16,,
-51,Bellavista,16,,
-52,Noboa,16,,
-53,Arq. Sixto Durán Ballén,16,,
-99,Sin Especificar,16,,
-50,Pedernales Cabecera Cantonal,17,,
-51,Cojimíes,17,,
-52,10 de Agosto,17,,
-53,Atahualpa,17,,
-99,Sin Especificar,17,,
-50,Olmedo Cabecera Cantonal,18,,
-99,Sin Especificar,18,,
-50,Puerto López Cabecera Cantonal,19,,
-51,Machalilla,19,,
-52,Salango,19,,
-99,Sin Especificar,19,,
-50,Jama Cabecera Cantonal,20,,
-99,Sin Especificar,20,,
-50,Jaramijó Cabecera Cantonal,21,,
-99,Sin Especificar,21,,
-50,San Vicente Cabecera Cantonal,22,,
-51,Canoa,22,,
-99,Sin Especificar,22,,
-50,Macas Cabecera Cantonal y Capital Provincial,01,,
-51,Alshi (Cab. en 9 de Octubre),01,,
-52,Chiguaza,01,,
-53,General Proaño,01,,
-54,Huasaga (Cab.en Wampuik),01,,
-55,Macuma,01,,
-56,San Isidro,01,,
-57,Sevilla Don Bosco,01,,
-58,Sinaí,01,,
-59,Taisha,01,,
-60,Zuña (Zúñac),01,,
-61,Tuutinentza,01,,
-62,Cuchaentza,01,,
-63,San José de Morona,01,,
-64,Río Blanco,01,,
-99,Sin Especificar,01,,
-01,Gualaquiza,02,,
-02,Mercedes Molina,02,,
-50,Gualaquiza Cabecera Cantonal,02,,
-51,Amazonas (Rosario de Cuyes),02,,
-52,Bermejos,02,,
-53,Bomboiza,02,,
-54,Chiguinda,02,,
-55,El Rosario,02,,
-56,Nueva Tarqui,02,,
-57,San Miguel de Cuyes,02,,
-58,El Ideal,02,,
-99,Sin Especificar,02,,
-50,General Leonidas Plaza Gutiérrez (Limón) Cabecera Cantonal,03,,
-51,Indanza,03,,
-52,Pan de Azúcar,03,,
-53,San Antonio (Cab. en San Antonio Centro),03,,
-54,San Carlos de Limón (San Carlos del Zamora),03,,
-55,San Juan Bosco,03,,
-56,San Miguel de Conchay,03,,
-57,Santa Susana de Chiviaza (Cab. en Chiviaza),03,,
-58,Yunganza (Cab. en El Rosario),03,,
-99,Sin Especificar,03,,
-50,Palora (Metzera)Cabecera Cantonal,04,,
-51,Arapicos,04,,
-52,Cumandá (Cab. en Colonia Agrícola Sevilla del Oro),04,,
-53,Huamboya,04,,
-54,Sangay (Cab. en Nayamanaca),04,,
-55,16 de Agosto,04,,
-99,Sin Especificar,04,,
-50,Santiago de Méndez Cabecera Cantonal,05,,
-51,Copal,05,,
-52,Chupianza,05,,
-53,Patuca,05,,
-54,San Luis de El Acho (Cab. en El Acho),05,,
-56,Tayuza,05,,
-57,San Francisco de Chinimbimi,05,,
-99,Sin Especificar,05,,
-50,Sucúa Cabecera Cantonal,06,,
-51,Asunción,06,,
-52,Huambi,06,,
-53,Logroño,06,,
-54,Yaupi,06,,
-55,Santa Marianita de Jesús,06,,
-99,Sin Especificar,06,,
-50,Huamboya Cabecera Cantonal,07,,
-51,Chiguaza,07,,
-52,Pablo Sexto,07,,
-99,Sin Especificar,07,,
-50,San Juan Bosco Cabecera Cantonal,08,,
-51,Pan de Azúcar,08,,
-52,San Carlos de Limón  ,08,,
-53,San Jacinto de Wakambeis,08,,
-54,Santiago de Pananza,08,,
-99,Sin Especificar,08,,
-50,Taisha Cabecera Cantonal,09,,
-51,Huasaga (Cab. en Wampuik),09,,
-52,Macuma,09,,
-53,Tuutinentza,09,,
-54,Pumpuentsa,09,,
-99,Sin Especificar,09,,
-50,Logroño Cabecera Cantonal,10,,
-51,Yaupi,10,,
-52,Shimpis,10,,
-99,Sin Especificar,10,,
-50,Pablo Sexto Cabecera Cantonal,11,,
-99,Sin Especificar,11,,
-50,Santiago Cabecera Cantonal,12,,
-51,San José de Morona,12,,
-99,Sin Especificar,12,,
-50,Tena Cabecera Cantonal y Capital Provincial,01,,
-51,Ahuano,01,,
-52,Carlos Julio Arosemena Tola (Zatza-Yacu),01,,
-53,Chontapunta,01,,
-54,Pano,01,,
-55,Puerto Misahualli,01,,
-56,Puerto Napo,01,,
-57,Tálag,01,,
-58,San Juan de Muyuna,01,,
-99,Sin Especificar,01,,
-50,Archidona Cabecera Cantonal,03,,
-51,Avila,03,,
-52,Cotundo,03,,
-53,Loreto,03,,
-54,San Pablo de Ushpayacu,03,,
-55,Puerto Murialdo,03,,
-56,Hatun Sumaku,03,,
-99,Sin Especificar,03,,
-50,El Chaco Cabecera Cantonal,04,,
-51,Gonzalo Díaz de Pineda (El Bombón),04,,
-52,Linares,04,,
-53,Oyacachi,04,,
-54,Santa Rosa,04,,
-55,Sardinas,04,,
-99,Sin Especificar,04,,
-50,Baeza Cabecera Cantonal,07,,
-51,Cosanga,07,,
-52,Cuyuja,07,,
-53,Papallacta,07,,
-54,San Francisco de Borja (Virgilio Dávila),07,,
-55,San José del Payamino,07,,
-56,Sumaco,07,,
-99,Sin Especificar,07,,
-50,Carlos Julio Arosemena Tola Cabecera Cantonal,09,,
-99,Sin Especificar,09,,
-50,Puyo Cabecera Cantonal y Capital Provincial,01,,
-51,Arajuno,01,,
-52,Canelos,01,,
-53,Curaray,01,,
-54,Diez de Agosto,01,,
-55,Fátima,01,,
-56,Montalvo (Andoas),01,,
-57,Pomona,01,,
-58,Río Corrientes,01,,
-59,Río Tigre,01,,
-60,Santa Clara,01,,
-61,Sarayacu,01,,
-62,Simón Bolívar  (Cab. en Mushullacta),01,,
-63,Tarqui,01,,
-64,Teniente Hugo Ortiz,01,,
-65,Veracruz  (Cab. en Indillama),01,,
-66,El Triunfo,01,,
-99,Sin Especificar,01,,
-50,Mera Cabecera Cantonal,02,,
-51,Madre Tierra,02,,
-52,Shell,02,,
-99,Sin Especificar,02,,
-50,Santa Clara Cabecera Cantonal,03,,
-51,San José,03,,
-99,Sin Especificar,03,,
-50,Arajuno Cabecera Cantonal,04,,
-51,Curaray,04,,
-99,Sin Especificar,04,,
-01,Belisario Quevedo,01,,
-02,Carcelén,01,,
-03,Centro Histórico,01,,
-04,Cochapamba,01,,
-05,Comité del Pueblo,01,,
-06,Cotocollao,01,,
-07,Chilibulo,01,,
-08,Chillogallo,01,,
-09,Chimbacalle,01,,
-10,El Condado,01,,
-11,Guamaní,01,,
-12,Iñaquito,01,,
-13,Itchimbía,01,,
-14,Jipijapa,01,,
-15,Kennedy,01,,
-16,La Argelia,01,,
-17,La Concepción,01,,
-18,La Ecuatoriana,01,,
-19,La Ferroviaria,01,,
-20,La Libertad,01,,
-21,La Magadalena,01,,
-22,La Mena,01,,
-23,Mariscal Sucre,01,,
-24,Ponceano,01,,
-25,Puengasí,01,,
-26,Quitumbe,01,,
-27,Rumipamba,01,,
-28,San Bartolo,01,,
-29,San Isidro del Inca,01,,
-30,San Juan,01,,
-31,Solanda,01,,
-32,Turubamba,01,,
-50,Quito Distrito Metropolitano Cabecera Cantonal,01,,
-51,Alangasí,01,,
-52,Amaguaña,01,,
-53,Atahualpa,01,,
-54,Calacalí,01,,
-55,Calderón,01,,
-56,Conocoto,01,,
-57,Cumbayá,01,,
-58,Chavezpamba,01,,
-59,Checa (Chilpa),01,,
-60,El Quinche,01,,
-61,Gualea,01,,
-62,Guangopolo,01,,
-63,Guayllabamba,01,,
-64,La Merced,01,,
-65,Llano Chico,01,,
-66,Lloa,01,,
-67,Mindo,01,,
-68,Nanegal,01,,
-69,Nanegalito,01,,
-70,Nayón,01,,
-71,Nono,01,,
-72,Pacto,01,,
-73,Pedro Vicente Maldonado,01,,
-74,Perucho,01,,
-75,Pifo,01,,
-76,Píntag,01,,
-77,Pomasqui,01,,
-78,Puéllaro,01,,
-79,Puembo,01,,
-80,San Antonio,01,,
-81,San José de Minas,01,,
-82,San Miguel de los Bancos,01,,
-83,Tababela,01,,
-84,Tumbaco,01,,
-85,Yaruquí,01,,
-86,Zámbiza,01,,
-87,Puerto Quito,01,,
-99,Sin Especificar,01,,
-01,Ayora,02,,
-02,Cayambe,02,,
-03,Juan Montalvo,02,,
-50,Cayambe Cabecera Cantonal,02,,
-51,Ascázubi,02,,
-52,Cangahua,02,,
-53,Olmedo (Pesillo),02,,
-54,Otón,02,,
-55,Santa Rosa de Cuzubamba,02,,
-56,San José de Ayora,02,,
-99,Sin Especificar,02,,
-50,Machachi Cabecera Cantonal,03,,
-51,Alóag,03,,
-52,Aloasí,03,,
-53,Cutuglahua,03,,
-54,El Chaupi,03,,
-55,Manuel Cornejo Astorga (Tandapi),03,,
-56,Tambillo,03,,
-57,Uyumbicho,03,,
-99,Sin Especificar,03,,
-50,Tabacundo Cabecera Cantonal,04,,
-51,La Esperanza,04,,
-52,Malchinguí,04,,
-53,Tocachi,04,,
-54,Tupigachi,04,,
-99,Sin Especificar,04,,
-01,Sangolquí,05,,
-02,San Pedro de Taboada,05,,
-03,San Rafael,05,,
-50,Sangolquí Cabecera Cantonal,05,,
-51,Cotogchoa,05,,
-52,Rumipamba,05,,
-99,Sin Especificar,05,,
-50,San Miguel de los Bancos Cabecera Cantonal,07,,
-51,Mindo,07,,
-52,Pedro Vicente Maldonado,07,,
-53,Puerto Quito,07,,
-99,Sin Especificar,07,,
-50,Pedro Vicente Maldonado Cabecera Cantonal,08,,
-99,Sin Especificar,08,,
-50,Puerto Quito Cabecera Cantonal,09,,
-99,Sin Especificar,09,,
-01,Atocha - Ficoa,01,,
-02,Celiano Monge,01,,
-03,Huachi Chico,01,,
-04,Huachi Loreto,01,,
-05,La Merced,01,,
-06,La Península,01,,
-07,Matriz,01,,
-08,Pishilata,01,,
-09,San Francisco,01,,
-50,Ambato Cabecera Cantonal y Capital Provincial,01,,
-51,Ambatillo,01,,
-52,Atahualpa (Chisalata),01,,
-53,Augusto N. Martínez (Mundugleo),01,,
-54,Constantino Fernández (Cab. en Cullitahua),01,,
-55,Huachi Grande,01,,
-56,Izamba,01,,
-57,Juan Benigno Vela,01,,
-58,Montalvo,01,,
-59,Pasa,01,,
-60,Picaigua,01,,
-61,Pilagüín (Pilahüín),01,,
-62,Quisapincha (Quizapincha),01,,
-63,San Bartolomé de Pinllog,01,,
-64,San Fernando (Pasa San Fernando),01,,
-65,Santa Rosa,01,,
-66,Totoras,01,,
-67,Cunchibamba,01,,
-68,Unamuncho,01,,
-99,Sin Especificar,01,,
-50,Baños de Agua Santa Cabecera Cantonal,02,,
-51,Lligua,02,,
-52,Río Negro,02,,
-53,Río Verde,02,,
-54,Ulba,02,,
-99,Sin Especificar,02,,
-50,Cevallos Cabecera Cantonal,03,,
-99,Sin Especificar,03,,
-50,Mocha Cabecera Cantonal,04,,
-51,Pinguilí,04,,
-99,Sin Especificar,04,,
-50,Patate Cabecera Cantonal,05,,
-51,El Triunfo,05,,
-52,Los Andes (Cab. en Poatug),05,,
-53,Sucre (Cab. en Sucre-Patate Urcu),05,,
-99,Sin Especificar,05,,
-50,Quero Cabecera Cantonal,06,,
-51,Rumipamba,06,,
-52,Yanayacu - Mochapata (Cab. en Yanayacu),06,,
-99,Sin Especificar,06,,
-01,Pelileo,07,,
-02,Pelileo Grande,07,,
-50,Pelileo Cabecera Cantonal,07,,
-51,Benítez (Pachanlica),07,,
-52,Bolívar,07,,
-53,Cotaló,07,,
-54,Chiquicha (Cab. en Chiquicha Grande),07,,
-55,El Rosario (Rumichaca),07,,
-56,García Moreno (Chumaqui),07,,
-57,Guambaló (Huambaló),07,,
-58,Salasaca,07,,
-99,Sin Especificar,07,,
-01,Ciudad Nueva,08,,
-02,Píllaro,08,,
-50,Píllaro Cabecera Cantonal,08,,
-51,Baquerizo Moreno,08,,
-52,Emilio María Terán (Rumipamba),08,,
-53,Marcos Espinel (Chacata),08,,
-54,Presidente Urbina (Chagrapamba -Patzucul),08,,
-55,San Andrés,08,,
-56,San José de Poaló,08,,
-57,San Miguelito,08,,
-99,Sin Especificar,08,,
-50,Tisaleo Cabecera Cantonal,09,,
-51,Quinchicoto,09,,
-99,Sin Especificar,09,,
-01,El Limón,01,,
-02,Zamora,01,,
-50,Zamora Cabecera Cantonal y Capital Provincial,01,,
-51,Cumbaratza,01,,
-52,Guadalupe,01,,
-53,Imbana (La Victoria de Imbana),01,,
-54,Paquisha,01,,
-55,Sabanilla,01,,
-56,Timbara,01,,
-57,Zumbi,01,,
-58,San Carlos de las Minas,01,,
-99,Sin Especificar,01,,
-50,Zumba Cabecera Cantonal,02,,
-51,Chito,02,,
-52,El Chorro,02,,
-53,El Porvenir del Carmen,02,,
-54,La Chonta,02,,
-55,Palanda,02,,
-56,Pucapamba,02,,
-57,San Francisco del Vergel,02,,
-58,Valladolid,02,,
-59,San Andrés,02,,
-99,Sin Especificar,02,,
-50,Guayzimi Cabecera Cantonal,03,,
-51,Zurmi,03,,
-52,Nuevo Paraíso,03,,
-99,Sin Especificar,03,,
-50,28 de Mayo (San José de Yacuambi) Cabecera Cantonal,04,,
-51,La Paz,04,,
-52,Tutupali,04,,
-99,Sin Especificar,04,,
-50,Yantzaza (Yanzatza) Cabecera Cantonal,05,,
-51,Chicaña,05,,
-52,El Pangui,05,,
-53,Los Encuentros,05,,
-99,Sin Especificar,05,,
-50,El Pangui Cabecera Cantonal,06,,
-51,El Guisme,06,,
-52,Pachicutza,06,,
-53,Tundayme,06,,
-99,Sin Especificar,06,,
-50,Zumbi Cabecera Cantonal,07,,
-51,Paquisha,07,,
-52,Triunfo - Dorado,07,,
-53,Panguintza,07,,
-99,Sin Especificar,07,,
-50,Palanda Cabecera Cantonal,08,,
-51,El Porvenir del Carmen,08,,
-52,San Francisco del Vergel,08,,
-53,Valladolid,08,,
-54,La Canela,08,,
-99,Sin Especificar,08,,
-50,Paquisha Cabecera Cantonal,09,,
-51,Bellavista,09,,
-52,Nuevo Quito,09,,
-99,Sin Especificar,09,,
-50,Puerto Baquerizo Moreno Cabecera Cantonal y Capital Provincial,01,,
-51,El Progreso,01,,
-52,Isla Santa María (Floreana) (Cab. en  Pto. Velasco Ibarra),01,,
-99,Sin Especificar,01,,
-50,Puerto Villamil Cabecera Cantonal,02,,
-51,Tomás de Berlanga (Santo Tomás),02,,
-99,Sin Especificar,02,,
-50,Puerto Ayora Cabecera Cantonal,03,,
-51,Bellavista,03,,
-52,Santa Rosa (Incluye La Isla Baltra),03,,
-99,Sin Especificar,03,,
-50,Nueva Loja Cabecera Cantonal y Capital Provincial,01,,
-51,Cuyabeno,01,,
-52,Dureno,01,,
-53,General Farfán,01,,
-54,Tarapoa,01,,
-55,El Eno,01,,
-56,Pacayacu,01,,
-57,Jambelí,01,,
-58,Santa Cecilia,01,,
-59,Aguas Negras,01,,
-60,10 de Agosto,01,,
-99,Sin Especificar,01,,
-50,Lumbaquí Cabecera Cantonal,02,,
-51,El Reventador,02,,
-52,Gonzalo Pizarro,02,,
-53,Lumbaquí,02,,
-54,Puerto Libre,02,,
-55,Santa Rosa de Sucumbíos,02,,
-99,Sin Especificar,02,,
-50,Puerto El Carmen del Putumayo Cabecera Cantonal,03,,
-51,Palma Roja,03,,
-52,Puerto Bolívar (Puerto Montúfar),03,,
-53,Puerto Rodríguez,03,,
-54,Santa Elena,03,,
-99,Sin Especificar,03,,
-50,Shushufindi Cabecera Cantonal,04,,
-51,Limoncocha,04,,
-52,Pañacocha,04,,
-53,San Roque (Cab. en San Vicente),04,,
-54,San Pedro de Los Cofanes,04,,
-55,Siete de Julio,04,,
-99,Sin Especificar,04,,
-50,La Bonita Cabecera Cantonal,05,,
-51,El Playón de San Francisco,05,,
-52,La Sofía,05,,
-53,Rosa Florida,05,,
-54,Santa Bárbara,05,,
-99,Sin Especificar,05,,
-50,El Dorado de Cascales Cabecera Cantonal,06,,
-51,Santa Rosa de Sucumbíos,06,,
-52,Sevilla,06,,
-99,Sin Especificar,06,,
-50,Tarapoa  Cabecera Cantonal,07,,
-51,Cuyabeno,07,,
-52,Aguas Negras,07,,
-99,Sin Especificar,07,,
-50,Puerto Francisco de Orellana (El Coca),01,,
-51,Dayuma,01,,
-52,Taracoa (Nueva Esperanza: Yuca),01,,
-53,Alejandro Labaka,01,,
-54,El Dorado,01,,
-55,El Edén,01,,
-56,García Moreno,01,,
-57,Inés Arango (Cab. en Western),01,,
-58,La Belleza,01,,
-59,Nuevo Paraíso (Cab. en Unión Chimborazo),01,,
-60,San José de Guayusa,01,,
-61,San Luis de Armenia,01,,
-99,Sin Especificar,01,,
-50,Nuevo Rocafuerte Cabecera Cantonal,02,,
-51,Capitán Augusto Rivadeneyra,02,,
-52,Cononaco,02,,
-53,Santa María de Huiririma,02,,
-54,Tiputini,02,,
-55,Yasuní,02,,
-99,Sin Especificar,02,,
-50,La Joya de los Sachas Cabecera Cantonal,03,,
-51,Enokanqui,03,,
-52,Pompeya,03,,
-53,San Carlos,03,,
-54,San Sebastián del Coca,03,,
-55,Lago San Pedro,03,,
-56,Rumipamba,03,,
-57,Tres de Noviembre,03,,
-58,Unión Milagreña,03,,
-99,Sin Especificar,03,,
-50,Loreto Cabecera Cantonal,04,,
-51,Avila (Cab. en Huiruno),04,,
-52,Puerto Murialdo,04,,
-53,San José de Payamino,04,,
-54,San José de Dahuano,04,,
-55,San Vicente de Huaticocha,04,,
-99,Sin Especificar,04,,
-01,Abraham Calazacón,01,,
-02,Bombolí,01,,
-03,Chiguilpe,01,,
-04,Río Toachi,01,,
-05,Río Verde,01,,
-06,Santo Domingo de los Coloradoss,01,,
-07,Zaracay,01,,
-50,Santo Domingo de los Colorados Cabecera Cantonal y Capital Provincial,01,,
-51,Alluriquín,01,,
-52,Puerto Limón,01,,
-53,Luz de América,01,,
-54,San Jacinto del Búa,01,,
-55,Valle Hermoso,01,,
-56,El Esfuerzo,01,,
-57,Santa María del Toachi,01,,
-99,Sin Especificar,01,,
-50,La Concordia Cabecera Cantonal,02,,
-51,Monterrey,02,,
-52,La Villegas,02,,
-53,Plan Piloto,02,,
-99,Sin Especificar,02,,
-01,Ballenita,01,,
-02,Santa Elena,01,,
-50,Santa Elena Cabecera Cantonal y Capital Provincial,01,,
-51,Atahualpa,01,,
-52,Colonche,01,,
-53,Chanduy,01,,
-54,Manglaralto,01,,
-55,Simón Bolívar (Julio Moreno),01,,
-56,San José de Ancón,01,,
-99,Sin Especificar,01,,
-50,La Libertad Cabecera Cantonal,02,,
-99,Sin Especificar,02,,
-01,Carlos Espinoza Larrea,03,,
-02,Gral. Alberto Enríquez Gallo,03,,
-03,Vicente Rocafuerte,03,,
-04,Santa Rosa,03,,
-50,Salinas Cabecera Cantonal,03,,
-51,Anconcito,03,,
-52,José Luis Tamayo (Muey),03,,
-99,Sin Especificar,03,,
-00,Exterior,00,,
-51,Las Golondrina,01,,
-99,Sin Especificar,01,,
-51,Manga del Cura,03,,
-99,Sin Especificar,03,,
-51,El Piedrero,04,,
-99,Sin Especificar,04,,
-,,,,
+10101,Bellavista,1
+10102,Cañaribamba,1
+10103,El Batán,1
+10104,El Sagrario,1
+10105,El Vecino,1
+10106,Gil Ramírez Dávalos,1
+10107,Huaynacápac,1
+10108,Machángara,1
+10109,Monay,1
+10110,San Blas,1
+10111,San Sebastián,1
+10112,Sucre,1
+10113,Totoracocha,1
+10114,Yanuncay,1
+10115,Hermano Miguel,1
+10150,Cuenca Cabecera Cantonal y Capital Provincial,1
+10151,Baños,1
+10152,Cumbe,1
+10153,Chaucha,1
+10154,Checa (Jidcay),1
+10155,Chiquintad,1
+10156,Llacao,1
+10157,Molleturo,1
+10158,Nulti,1
+10159,Octavio Cordero Palacios (Santa Rosa),1
+10160,Paccha,1
+10161,Quingeo,1
+10162,Ricaurte,1
+10163,San Joaquín,1
+10164,Santa Ana,1
+10165,Sayausí,1
+10166,Sidcay,1
+10167,Sinincay,1
+10168,Tarqui,1
+10169,Turi,1
+10170,Valle,1
+10171,Victoria del Portete (Irquis),1
+10199,Sin Especificar,1
+10250,Girón Cabecera Cantonal,2
+10251,Asunción,2
+10252,San Gerardo,2
+10299,Sin Especificar,2
+10350,Gualaceo Cabecera Cantonal,3
+10351,Chordeleg,3
+10352,Daniel Córdova Toral (El Oriente),3
+10353,Jadán,3
+10354,Mariano Moreno,3
+10355,Principal,3
+10356,Remigio Crespo Toral (Gúlag),3
+10357,San Juan,3
+10358,Zhidmad,3
+10359,Luis Cordero Vega,3
+10360,Simón Bolívar (Cab. en Gañanzol),3
+10399,Sin Especificar,3
+10450,Nabón Cabecera Cantonal,4
+10451,Cochapata,4
+10452,El Progreso (Cab. en Zhota),4
+10453,Las Nieves (Chaya),4
+10454,Oña,4
+10455,La Paz,4
+10499,Sin Especificar,4
+10550,Paute Cabecera Cantonal,5
+10551,Amaluza,5
+10552,Bulán (José Víctor Izquierdo),5
+10553,Chicán (Guillermo Ortega),5
+10554,El Cabo,5
+10555,Guachapala,5
+10556,Guarainag,5
+10557,Palmas,5
+10558,Pan,5
+10559,San Cristóbal (Carlos Ordóñez Lazo),5
+10560,Sevilla de Oro,5
+10561,Tomebamba,5
+10562,Dug Dug,5
+10599,Sin Especificar,5
+10650,Pucará Cabecera Cantonal,6
+10651,Camilo Ponce Enríquez (Cab. en Río 7 de Mollepongo),6
+10652,San Rafael de Shurug,6
+10699,Sin Especificar,6
+10750,San Fernando Cabecera Cantonal,7
+10751,Chumblín,7
+10799,Sin Especificar,7
+10850,Santa Isabel (Chaguarurco) Cabecera Cantonal,8
+10851,Abdón Calderón  (La Unión),8
+10852,El Carmen de Pijilí,8
+10853,Zhaglli (Shaglli),8
+10854,San Salvador de Cañaribamba,8
+10899,Sin Especificar,8
+10950,Sigsig Cabecera Cantonal,9
+10951,Cuchil (Cutchil),9
+10952,Gima,9
+10953,Guel,9
+10954,Ludo,9
+10955,San Bartolomé,9
+10956,San José de Raranga,9
+10999,Sin Especificar,9
+11050,San Felipe de Oña Cabecera Cantonal,10
+11051,Susudel,10
+11099,Sin Especificar,10
+11150,Chordeleg Cabecera Cantonal,11
+11151,Principal,11
+11152,La Unión,11
+11153,Luis Galarza Orellana (Cab. en Delegsol),11
+11154,San Martín de Puzhio,11
+11199,Sin Especificar,11
+11250,El Pan Cabecera Cantonal,12
+11251,Amaluza,12
+11252,Palmas,12
+11253,San Vicente,12
+11299,Sin Especificar,12
+11350,Sevilla de Oro Cabecera Cantonal,13
+11351,Amaluza,13
+11352,Palmas,13
+11399,Sin Especificar,13
+11450,Guachapala Cabecera Cantonal,14
+11499,Sin Especificar,14
+11550,Camilo Ponce Enríquez Cabecera Cantonal,15
+11551,El Carmen de Pijilí,15
+11599,Sin Especificar,15
+20101,Ángel Polibio Cháves,1
+20102,Gabriel Ignacio Veintimilla,1
+20103,Guanujo,1
+20150,Guaranda Cabecera Cantonal y Capital Provincial,1
+20151,Facundo Vela,1
+20152,Guanujo,1
+20153,Julio E. Moreno (Catanahuán Grande),1
+20154,Las Naves,1
+20155,Salinas,1
+20156,San Lorenzo,1
+20157,San Simón (Yacoto),1
+20158,Santa Fé (Santa Fé),1
+20159,Simiátug,1
+20160,San Luis de Pambil,1
+20199,Sin Especificar,1
+20250,Chillanes Cabecera Cantonal,2
+20251,San José del Tambo (Tambopamba),2
+20299,Sin Especificar,2
+20350,San José de Chimbo Cabecera Cantonal,3
+20351,Asunción (Asancoto),3
+20352,Caluma,3
+20353,Magdalena (Chapacoto),3
+20354,San Sebastián,3
+20355,Telimbela,3
+20399,Sin Especificar,3
+20450,Echeandía Cabecera Cantonal,4
+20499,Sin Especificar,4
+20550,San Miguel Cabecera Cantonal,5
+20551,Balsapamba,5
+20552,Bilován,5
+20553,Régulo de Mora,5
+20554,San Pablo  (San Pablo de Atenas),5
+20555,Santiago,5
+20556,San Vicente,5
+20599,Sin Especificar,5
+20650,Caluma Cabecera Cantonal,6
+20699,Sin Especificar,6
+20701,Las Mercedes,7
+20702,Las Naves,7
+20750,Las Naves Cabecera Cantonal,7
+20799,Sin Especificar,7
+30101,Aurelio Bayas Martínez,1
+30102,Azogues,1
+30103,Borrero,1
+30104,San Francisco,1
+30150,Azogues,1
+30151,Cojitambo,1
+30152,Déleg,1
+30153,Guapán,1
+30154,Javier Loyola (Chuquipata),1
+30155,Luis Cordero,1
+30156,Pindilig,1
+30157,Rivera,1
+30158,San Miguel,1
+30159,Solano,1
+30160,Taday,1
+30199,Sin Especificar,1
+30250,Biblián Cabecera Cantonal,2
+30251,Nazón (Cab. en Pampa de Domínguez),2
+30252,San Francisco de Sageo,2
+30253,Turupamba,2
+30254,Jerusalén,2
+30299,Sin Especificar,2
+30350,Cañar Cabecera Cantonal,3
+30351,Chontamarca,3
+30352,Chorocopte,3
+30353,General Morales (Socarte),3
+30354,Gualleturo,3
+30355,Honorato Vásquez (Tambo Viejo),3
+30356,Ingapirca,3
+30357,Juncal,3
+30358,San Antonio,3
+30359,Suscal,3
+30360,Tambo,3
+30361,Zhud,3
+30362,Ventura,3
+30363,Ducur,3
+30399,Sin Especificar,3
+30450,La Troncal,4
+30451,Manuel J. Calle,4
+30452,Pancho Negro,4
+30499,Sin Especificar,4
+30550,El Tambo Cabecera Cantonal,5
+30599,Sin Especificar,5
+30650,Déleg Cabecera Cantonal,6
+30651,Solano,6
+30699,Sin Especificar,6
+30750,Suscal Cabecera Cantonal,7
+30799,Sin Especificar,7
+40101,González Suárez,1
+40102,Tulcán,1
+40150,Tulcán Cabecera Cantonal y Capital Provincial,1
+40151,El Carmelo (El Pun),1
+40152,Huaca,1
+40153,Julio Andrade (Orejuela),1
+40154,Maldonado,1
+40155,Pioter,1
+40156,Tobar Donoso (La Bocana de Camumbí),1
+40157,Tufiño,1
+40158,Urbina (Taya),1
+40159,El Chical,1
+40160,Mariscal Sucre,1
+40161,Santa Martha de Cuba,1
+40199,Sin Especificar,1
+40250,Bolívar Cabecera Cantonal,2
+40251,García Moreno,2
+40252,Los Andes,2
+40253,Monte Olivo,2
+40254,San Vicente de Pusir,2
+40255,San Rafael,2
+40299,Sin Especificar,2
+40301,El Ángel,3
+40302,27 de Septiembre,3
+40350,El Ángel Cabecera Cantonal,3
+40351,El Goaltal,3
+40352,La Libertad (Alizo),3
+40353,San Isidro,3
+40399,Sin Especificar,3
+40450,Mira (Chontahuasi) Cabecera Cantonal,4
+40451,Concepción,4
+40452,Jijón y Caamaño (Cab. en Río Blanco),4
+40453,Juan Montalvo (San Ignacio de Quil),4
+40499,Sin Especificar,4
+40501,González Suárez,5
+40502,San José,5
+40550,San Gabriel Cabecera Cantonal,5
+40551,Cristóbal Colón,5
+40552,Chitán de Navarrete,5
+40553,Fernández Salvador,5
+40554,La Paz,5
+40555,Piartal,5
+40599,Sin Especificar,5
+40650,Huaca Cabecera Cantonal,6
+40651,Mariscal Sucre,6
+40699,Sin Especificar,6
+50101,Eloy Alfaro (San Felipe),1
+50102,Ignacio Flores (Parque Flores),1
+50103,Juan Montalvo (San Sebastián),1
+50104,La Matriz,1
+50105,San Buenaventura,1
+50150,Latacunga Cabecera Cantonal y Capital Provincial,1
+50151,Alaques (Aláquez),1
+50152,Belisario Quevedo (Guanailín),1
+50153,Guaitacama (Guaytacama),1
+50154,Joseguango Bajo,1
+50155,Las Pampas,1
+50156,Mulaló,1
+50157,11 de Noviembre (Ilinchisi),1
+50158,Poaló,1
+50159,San Juan de Pastocalle,1
+50160,Sigchos,1
+50161,Tanicuchí,1
+50162,Toacaso,1
+50163,Palo Quemado,1
+50199,Sin Especificar,1
+50201,El Carmen,2
+50202,La Maná,2
+50203,El Triunfo,2
+50250,La Maná Cabecera Cantonal,2
+50251,Guasaganda (Cab. en Guasaganda Centro),2
+50252,Pucayacu,2
+50299,Sin Especificar,2
+50350,El Corazón,3
+50351,Moraspungo,3
+50352,Pinllopata,3
+50353,Ramón Campaña,3
+50399,Sin Especificar,3
+50450,Pujilí Cabecera Cantonal,4
+50451,Angamarca,4
+50452,Chucchilán (Chugchilán),4
+50453,Guangaje,4
+50454,Isinlibí (Isinliví),4
+50455,La Victoria,4
+50456,Pilaló,4
+50457,Tingo,4
+50458,Zumbahua,4
+50499,Sin Especificar,4
+50550,San Miguel Cabecera Cantonal,5
+50551,Antonio José Holguín  (Santa Lucía),5
+50552,Cusubamba,5
+50553,Mulalillo,5
+50554,Mulliquindil (Santa Ana),5
+50555,Pansaleo,5
+50599,Sin Especificar,5
+50650,Saquisilí Cabecera Cantonal,6
+50651,Canchagua,6
+50652,Chantilín,6
+50653,Cochapamba,6
+50699,Sin Especificar,6
+50750,Sigchos Cabecera Cantonal,7
+50751,Chugchillán,7
+50752,Isinliví,7
+50753,Las Pampas,7
+50754,Palo Quemado,7
+50799,Sin Especificar,7
+60101,Lizarzaburu,1
+60102,Maldonado,1
+60103,Velasco,1
+60104,Veloz,1
+60105,Yaruquíes,1
+60150,Riobamba Cabecera Cantonal y Capital Provincial,1
+60151,Cacha (Cab. en Machángara),1
+60152,Calpi,1
+60153,Cubijíes,1
+60154,Flores,1
+60155,Licán,1
+60156,Licto,1
+60157,Pungalá,1
+60158,Punín,1
+60159,Quimiag,1
+60160,San Juan,1
+60161,San Luis,1
+60199,Sin Especificar,1
+60250,Alausí Cabecera Cantonal,2
+60251,Achupallas,2
+60252,Cumandá,2
+60253,Guasuntos,2
+60254,Huigra,2
+60255,Multitud,2
+60256,Pistishí (Nariz del Diablo),2
+60257,Pumallacta,2
+60258,Sevilla,2
+60259,Sibambe,2
+60260,Tixán,2
+60299,Sin Especificar,2
+60301,Cajabamba,3
+60302,Sicalpa,3
+60350,Villa La Unión (Cajabamba) Cabecera Cantonal,3
+60351,Cañi,3
+60352,Columbe,3
+60353,Juan de Velasco (Pangor),3
+60354,Santiago de Quito (Cab. en San Antonio de Quito),3
+60399,Sin Especificar,3
+60450,Chambo Cabecera Cantonal,4
+60499,Sin Especificar,4
+60550,Chunchi Cabecera Cantonal,5
+60551,Capzol,5
+60552,Compud,5
+60553,Gonzol,5
+60554,Llagos,5
+60599,Sin Especificar,5
+60650,Guamote Cabecera Cantonal,6
+60651,Cebadas,6
+60652,Palmira,6
+60699,Sin Especificar,6
+60701,El Rosario,7
+60702,La Matriz,7
+60750,Guano Cabecera Cantonal,7
+60751,Guanando,7
+60752,Ilapo,7
+60753,La Providencia,7
+60754,San Andrés,7
+60755,San Gerardo de Pacaicaguán,7
+60756,San Isidro de Patulú,7
+60757,San José del Chazo,7
+60758,Santa Fé de Galán,7
+60759,Valparaíso,7
+60799,Sin Especificar,7
+60850,Pallatanga Cabecera Cantonal,8
+60899,Sin Especificar,8
+60950,Penipe Cabecera Cantonal,9
+60951,El Altar,9
+60952,Matus,9
+60953,Puela,9
+60954,San Antonio de Bayushig,9
+60955,La Candelaria,9
+60956,Bilbao (Cab. en Quilluyacu),9
+60999,Sin Especificar,9
+61050,Cumandá Cabecera Cantonal,10
+61099,Sin Especificar,10
+70101,La Providencia,1
+70102,Machala,1
+70103,Puerto Bolívar,1
+70104,Nueve de Mayo,1
+70105,El Cambio,1
+70150,Machala Cabecera Cantonal y Capital Provincial,1
+70151,El Cambio,1
+70152,El Retiro,1
+70199,Sin Especificar,1
+70250,Arenillas Cabecera Cantonal,2
+70251,Chacras,2
+70252,La Libertad,2
+70253,Las Lajas (Cab. en la Victoria),2
+70254,Palmales,2
+70255,Carcabón,2
+70299,Sin Especificar,2
+70350,Paccha Cabecera Cantonal,3
+70351,Ayapamba,3
+70352,Cordoncillo,3
+70353,Milagro,3
+70354,San José,3
+70355,San Juan de Cerro Azul,3
+70399,Sin Especificar,3
+70450,Balsas Cabecera Cantonal,4
+70451,Bellamaría,4
+70499,Sin Especificar,4
+70550,Chilla Cabecera Cantonal,5
+70599,Sin Especificar,5
+70650,El Guabo Cabecera Cantonal,6
+70651,Barbones (Sucre),6
+70652,La Iberia,6
+70653,Tendales (Cab. en Puerto Tendales),6
+70654,Río Bonito,6
+70699,Sin Especificar,6
+70701,Ecuador,7
+70702,El Paraíso,7
+70703,Hualtaco,7
+70704,Milton Reyes,7
+70705,Unión Lojana,7
+70750,Huaquillas Cabecera Cantonal,7
+70799,Sin Especificar,7
+70850,Marcabelí Cabecera Cantonal,8
+70851,El Ingenio,8
+70899,Sin Especificar,8
+70901,Bolívar,9
+70902,Loma de Franco,9
+70903,Ochoa León (Matriz),9
+70904,Tres Cerritos,9
+70950,Pasaje Cabecera Cantonal,9
+70951,Buenavista,9
+70952,Casacay,9
+70953,La Peaña,9
+70954,Progreso,9
+70955,Uzhcurrumi,9
+70956,Cañaquemada,9
+70999,Sin Especificar,9
+71001,La Matriz,10
+71002,La Susaya,10
+71003,Piñas Grande,10
+71050,Piñas Cabecera Cantonal,10
+71051,Capiro (Cab. en La Capilla de Capiro),10
+71052,La Bocana,10
+71053,Moromoro (Cab. en El Vado),10
+71054,Piedras,10
+71055,San Roque (Ambrosio Maldonado),10
+71056,Saracay,10
+71099,Sin Especificar,10
+71150,Portovelo Cabecera Cantonal,11
+71151,Curtincapa,11
+71152,Morales,11
+71153,Salatí,11
+71199,Sin Especificar,11
+71201,Santa Rosa,12
+71202,Puerto Jelí,12
+71203,Balnerio Jambelí (Satélite),12
+71204,Jumón (Satélite),12
+71205,Nuevo Santa Rosa,12
+71250,Santa Rosa Cabecera Cantonal,12
+71251,Bellavista,12
+71252,Jambelí,12
+71253,La Avanzada,12
+71254,San Antonio,12
+71255,Torata,12
+71256,Victoria,12
+71257,Bellamaría,12
+71299,Sin Especificar,12
+71350,Zaruma Cabecera Cantonal,13
+71351,Abañín,13
+71352,Arcapamba,13
+71353,Guanazán,13
+71354,Guizhaguiña,13
+71355,Huertas,13
+71356,Malvas,13
+71357,Muluncay Grande,13
+71358,Sinsao,13
+71359,Salvias,13
+71399,Sin Especificar,13
+71401,La Victoria,14
+71402,Platanillos,14
+71403,Valle Hermoso,14
+71450,La Victoria Cabecera Cantonal,14
+71451,La Libertad,14
+71452,El Paraíso,14
+71453,San Isidro,14
+71499,Sin Especificar,14
+80101,Bartolomé Ruiz (César Franco Carrión),1
+80102,5 de Agosto,1
+80103,Esmeraldas,1
+80104,Luis Tello (Las Palmas),1
+80105,Simón Plata Torres,1
+80150,Esmeraldas Cabecera Cantonal y Capital Provincial,1
+80151,Atacames,1
+80152,Camarones (Cab. en San Vicente),1
+80153,Crnel. Carlos Concha Torres (Cab. en Huele),1
+80154,Chinca,1
+80155,Chontaduro,1
+80156,Chumundé,1
+80157,Lagarto,1
+80158,La Unión,1
+80159,Majua,1
+80160,Montalvo (Cab. en Horqueta),1
+80161,Río Verde,1
+80162,Rocafuerte,1
+80163,San Mateo,1
+80164,Súa (Cab. en La Bocana),1
+80165,Tabiazo,1
+80166,Tachina,1
+80167,Tonchigüe,1
+80168,Vuelta Larga,1
+80199,Sin Especificar,1
+80250,Valdez (Limones) Cabecera Cantonal,2
+80251,Anchayacu,2
+80252,Atahualpa (Cab. en Camarones),2
+80253,Borbon,2
+80254,La Tola,2
+80255,Luis Vargas Torres (Cab. en Playa de Oro),2
+80256,Maldonado,2
+80257,Pampanal de Bolívar,2
+80258,San Francisco de Onzole,2
+80259,Santo Domingo de Onzole,2
+80260,Selva Alegre,2
+80261,Telembi,2
+80262,Colón Eloy del María,2
+80263,San José de Cayapas,2
+80264,Timbire,2
+80265,Santa Lucia de las Peñas,2
+80299,Sin Especificar,2
+80350,Muisne Cabecera Cantonal,3
+80351,Bolívar,3
+80352,Daule,3
+80353,Galera,3
+80354,Quingue (Olmedo Perdomo Franco),3
+80355,Salima,3
+80356,San Francisco,3
+80357,San Gregorio,3
+80358,San José de Chamanga (Cab. en Chamanga),3
+80399,Sin Especificar,3
+80450,Rosa Zárate (Quinindé) Cabecera Cantonal,4
+80451,Cube,4
+80452,Chura (Chancama) (Cab. en El Yerbero),4
+80453,Malimpia,4
+80454,Viche,4
+80455,La Unión,4
+80499,Sin Especificar,4
+80550,San Lorenzo Cabecera Cantonal,5
+80551,Alto Tambo (Cab. en Guadual),5
+80552,Ancón (Pichangal) (Cab. en Palma Real),5
+80553,Calderón,5
+80554,Carondelet,5
+80555,5 de Junio (Cab. en Uimbi),5
+80556,Concepción,5
+80557,Mataje (Cab. en Santander),5
+80558,San Javier de Cachaví (Cab. en San Javier),5
+80559,Santa Rita,5
+80560,Tambillo,5
+80561,Tululbí (Cab. en Ricaurte),5
+80562,Urbina,5
+80599,Sin Especificar,5
+80650,Atacames Cabecera Cantonal,6
+80651,La Unión,6
+80652,Súa  (Cab. en La Bocana),6
+80653,Tonchigue,6
+80654,Tonsupa,6
+80699,Sin Especificar,6
+80750,Rioverde Cabecera Cantonal,7
+80751,Chontaduro,7
+80752,Chumundé,7
+80753,Lagarto,7
+80754,Montalvo (Cab. en Horqueta),7
+80755,Rocafuerte,7
+80799,Sin Especificar,7
+90101,Ayacucho,1
+90102,Bolívar (Sagrario),1
+90103,Carbo (Concepción),1
+90104,Febres Cordero,1
+90105,García Moreno,1
+90106,Letamenci,1
+90107,Nueve de Octubre,1
+90108,Olmedo (San Alejo),1
+90109,Roca,1
+90110,Rocafuerte,1
+90111,Sucre,1
+90112,Tarqui,1
+90113,Urdaneta,1
+90114,Ximena,1
+90115,Pascuales,1
+90150,Guayaquil Cabecera Cantonal y Capital Provincial,1
+90151,Chongón,1
+90152,Juan Gómez Rendón (Progreso),1
+90153,Morro,1
+90154,Pascuales,1
+90155,Playas (Gral. Villamil),1
+90156,Posorja,1
+90157,Puná,1
+90158,Tenguel,1
+90199,Sin Especificar,1
+90250,Alfredo Baquerizo Moreno (Juján) Cabecera Cantonal,2
+90299,Sin Especificar,2
+90350,Balao Cabecera Cantonal,3
+90399,Sin Especificar,3
+90450,Balzar Cabecera Cantonal,4
+90499,Sin Especificar,4
+90550,Colimes Cabecera Cantonal,5
+90551,San Jacinto,5
+90599,Sin Especificar,5
+90601,Daule,6
+90602,La Aurora (Satélite),6
+90603,Banife,6
+90604,Emiliano Caicedo Marcos,6
+90605,Magro,6
+90606,Padre Juan Bautista Aguirre,6
+90607,Santa Clara,6
+90608,Vicente Piedrahita,6
+90650,Daule Cabecera Cantonal,6
+90651,Isidro Ayora (Soledad),6
+90652,Juan Bautista Aguirre (Los Tintos),6
+90653,Laurel,6
+90654,Limonal,6
+90655,Lomas de Sargentillo,6
+90656,Los Lojas (Enrique Baquerizo Moreno),6
+90657,Piedrahita (Nobol),6
+90699,Sin Especificar,6
+90701,Eloy Alfaro (Durán),7
+90702,El Recreo,7
+90750,Eloy Alfaro (Durán) Cabecera Cantonal,7
+90799,Sin Especificar,7
+90850,Velasco Ibarra (El Empalme) Cabecera Cantonal,8
+90851,Guayas (Pueblo Nuevo),8
+90852,El Rosario,8
+90899,Sin Especificar,8
+90950,El Triunfo Cabecera Cantonal,9
+90999,Sin Especificar,9
+91050,Milagro Cabecera Cantonal,10
+91051,Chobo,10
+91052,General Elizalde (Bucay),10
+91053,Mariscal Sucre (Huaques),10
+91054,Roberto Astudillo (Cab. en Cruce de Venecia),10
+91099,Sin Especificar,10
+91150,Naranjal Cabecera Cantonal,11
+91151,Jesús María,11
+91152,San Carlos,11
+91153,Santa Rosa de Flandes,11
+91154,Taura,11
+91199,Sin Especificar,11
+91250,Naranjito Cabecera Cantonal,12
+91299,Sin Especificar,12
+91350,PalestinaCabecera Cantonal,13
+91399,Sin Especificar,13
+91450,Pedro Carbo Cabecera Cantonal,14
+91451,Valle de la Virgen,14
+91452,Sabanilla,14
+91499,Sin Especificar,14
+91601,Samborondón,16
+91602,La Puntilla (Satélite),16
+91650,Samborondón Cabecera Cantonal,16
+91651,Tarifa,16
+91699,Sin Especificar,16
+91850,Santa Lucía Cabecera Cantonal,18
+91899,Sin Especificar,18
+91901,Bocana,19
+91902,Candilejos,19
+91903,Central,19
+91904,Paraíso,19
+91905,San Mateo,19
+91950,El Salitre (Las Ramas)  Cabecera Cantonal,19
+91951,Gral. Vernaza (Dos Esteros),19
+91952,La Victoria (Ñauza),19
+91953,Junquillal,19
+91999,Sin Especificar,19
+92050,San Jacinto de Yaguachi Cabecera Cantonal,20
+92051,Crnel. Lorenzo de Garaicoa (Pedregal),20
+92052,Crnel. Marcelino Maridueña (San Carlos),20
+92053,Gral. Pedro J. Montero (Boliche),20
+92054,Simón Bolívar,20
+92055,Yaguachi Viejo (Cone),20
+92056,Virgen de Fátima,20
+92099,Sin Especificar,20
+92150,General Villamil (Playas) Cabecera Cantonal,21
+92199,Sin Especificar,21
+92250,Simón Bolívar Cabecera Cantonal,22
+92251,Crnel.Lorenzo de Garaicoa (Pedregal),22
+92299,Sin Especificar,22
+92350,Coronel Marcelino Maridueña (San Carlos) Cabecera Cantonal,23
+92399,Sin Especificar,23
+92450,Lomas de Sargentillo Cabecera Cantonal,24
+92451,Isidro Ayora (Soledad),24
+92499,Sin Especificar,24
+92550,Narcisa de Jesús (Nobol) Cabecera Cantonal,25
+92599,Sin Especificar,25
+92750,General Antonio Elizalde (Bucay) Cabecera Cantonal,27
+92799,Sin Especificar,27
+92850,Isidro Ayora Cabecera Cantonal,28
+92899,Sin Especificar,28
+100101,Caranqui,1
+100102,Guayaquil de Alpachaca,1
+100103,Sagrario,1
+100104,San Francisco,1
+100105,La Dolorosa del Priorato,1
+100150,San Miguel de Ibarra Cabecera Cantonal y Capital Provincial,1
+100151,Ambuquí,1
+100152,Angochagua,1
+100153,Carolina,1
+100154,La Esperanza,1
+100155,Lita,1
+100156,Salinas,1
+100157,San Antonio,1
+100199,Sin Especificar,1
+100201,Andrade Marín (Lourdes),2
+100202,Atuntaqui,2
+100250,Atuntaqui Cabecera Cantonal,2
+100251,Imbaya (San Luis de Cobuendo),2
+100252,San Francisco de Natabuela,2
+100253,San José de Chaltura,2
+100254,San Roque,2
+100299,Sin Especificar,2
+100301,Sagrario,3
+100302,San Francisco,3
+100350,Cotacachi Cabecera Cantonal,3
+100351,Apuela,3
+100352,García Moreno (Llurimagua),3
+100353,Imantag,3
+100354,Peñaherrera,3
+100355,Plaza Gutiérrez (Calvario),3
+100356,Quiroga,3
+100357,6 de Julio de Cuellaje (Cab. en Cuellaje),3
+100358,Vacas Galindo (El Churo) (Cab.en San Miguel Alto),3
+100399,Sin Especificar,3
+100401,Jordán,4
+100402,San Luis,4
+100450,Otavalo Cabecera Cantonal,4
+100451,Dr. Miguel Egas Cabezas (Peguche),4
+100452,Eugenio Espejo (Calpaquí),4
+100453,González Suárez,4
+100454,Pataquí,4
+100455,San José de Quichinche,4
+100456,San Juan de Ilumán,4
+100457,San Pablo,4
+100458,San Rafael,4
+100459,Selva Alegre (Cab. en San Miguel de Pamplona),4
+100499,Sin Especificar,4
+100550,Pimampiro,5
+100551,Chugá,5
+100552,Mariano Acosta,5
+100553,San Francisco de Sigsipamba,5
+100599,Sin Especificar,5
+100650,Urcuquí Cabecera Cantonal,6
+100651,Cahuasquí,6
+100652,La Merced de Buenos Aires,6
+100653,Pablo Arenas,6
+100654,San Blas,6
+100655,Tumbabiro,6
+100699,Sin Especificar,6
+110101,El Sagrario,1
+110102,San Sebastián,1
+110103,Sucre,1
+110104,Valle,1
+110150,Loja Cabecera Cantonal y Capital Provincial,1
+110151,Chantaco,1
+110152,Chuquiribamba,1
+110153,El Cisne,1
+110154,Gualel,1
+110155,Jimbilla,1
+110156,Malacatos (Valladolid),1
+110157,San Lucas,1
+110158,San Pedro de Vilcabamba,1
+110159,Santiago,1
+110160,Taquil (Miguel Riofrío),1
+110161,Vilcabamba  (Victoria),1
+110162,Yangana (Arsenio Castillo),1
+110163,Quinara,1
+110199,Sin Especificar,1
+110201,Cariamanga,2
+110202,Chile,2
+110203,San Vicente,2
+110250,Cariamanga Cabecera Cantonal,2
+110251,Colaisaca,2
+110252,El Lucero,2
+110253,Utuana,2
+110254,Sanguillín,2
+110299,Sin Especificar,2
+110301,Catamayo,3
+110302,San José,3
+110350,Catamayo (La Toma) Cabecera Cantonal,3
+110351,El Tambo,3
+110352,Guayquichuma,3
+110353,San Pedro de la Bendita,3
+110354,Zambi,3
+110399,Sin Especificar,3
+110450,Celica Cabecera Cantonal,4
+110451,Cruzpamba (Cab. en Carlos Bustamante),4
+110452,Chaquinal,4
+110453,12 de Diciembre (Cab. en Achiotes),4
+110454,Pindal (Federico Páez),4
+110455,Pozul (San Juan de Pozul),4
+110456,Sabanilla,4
+110457,Tnte. Maximiliano Rodríguez Loaiza,4
+110499,Sin Especificar,4
+110550,Chaguarpamba,5
+110551,Buenavista,5
+110552,El Rosario,5
+110553,Santa Rufina,5
+110554,Amarillos,5
+110599,Sin Especificar,5
+110650,Amaluza Cabecera Cantonal,6
+110651,Bellavista,6
+110652,Jimbura,6
+110653,Santa Teresita,6
+110654,27 de Abril (Cab. en La Naranja),6
+110655,El Ingenio,6
+110656,El Airo,6
+110699,Sin Especificar,6
+110750,Gonzanamá Cabecera Cantonal,7
+110751,Changaimina (La Libertad),7
+110752,Fundochamba,7
+110753,Nambacola,7
+110754,Purunuma (Eguiguren),7
+110755,Quilanga (La Paz),7
+110756,Sacapalca,7
+110757,San Antonio de las Aradas (Cab. en las Aradas),7
+110799,Sin Especificar,7
+110801,General Eloy Alfaro (San Sebastián),8
+110802,Macará  (Manuel Enrique Rengel Suquilanda),8
+110850,Macará Cabecera Cantonal,8
+110851,Larama,8
+110852,La Victoria,8
+110853,Sabiango (La Capilla),8
+110899,Sin Especificar,8
+110901,Catacocha,9
+110902,Lourdes,9
+110950,Catacocha Cabecera Cantonal,9
+110951,Cangonamá,9
+110952,Guachanamá,9
+110953,La Tingue,9
+110954,Lauro Guerrero,9
+110955,Olmedo (Santa Bárbara),9
+110956,Orianga,9
+110957,San Antonio,9
+110958,Casanga,9
+110959,Yamana,9
+110999,Sin Especificar,9
+111050,Alamor Cabecera Cantonal,10
+111051,Ciano,10
+111052,El Arenal,10
+111053,El Limo (Mariana de Jesús),10
+111054,Mercadillo,10
+111055,Vicentino,10
+111099,Sin Especificar,10
+111150,Saraguro Cabecera Cantonal,11
+111151,El Paraíso de Celén,11
+111152,El Tablón,11
+111153,Lluzhapa,11
+111154,Manú,11
+111155,San Antonio de Qumbe (Cumbe),11
+111156,San Pablo de Tenta,11
+111157,San Sebastián de Yúluc,11
+111158,Selva Alegre,11
+111159,Urdaneta (Paquishapa),11
+111160,Sumaypamba,11
+111199,Sin Especificar,11
+111250,Sozoranga Cabecera Cantonal,12
+111251,Nueva Fátima,12
+111252,Tacamoros,12
+111299,Sin Especificar,12
+111350,Zapotillo Cabecera Cantonal,13
+111351,Mangahurco,13
+111352,Garzareal,13
+111353,Limones,13
+111354,Paletillas,13
+111355,Bolaspamba,13
+111356,Cazaderos,13
+111399,Sin Especificar,13
+111450,Pindal Cabecera Cantonal,14
+111451,Chaquinal,14
+111452,12 de Diciembre (Cab. en Achiotes),14
+111453,Milagros,14
+111499,Sin Especificar,14
+111550,Quilanga Cabecera Cantonal,15
+111551,Fundochamba,15
+111552,San Antonio de Las Aradas (Cab. en Las Aradas),15
+111599,Sin Especificar,15
+111650,Olmedo Cabecera Cantonal,16
+111651,La Tingue,16
+111699,Sin Especificar,16
+120101,Clemente Baquerizo,1
+120102,Dr. Camilo Ponce,1
+120103,Barreiro,1
+120104,El Salto,1
+120150,Babahoyo Cabecera Cantonal y Capital Provincial,1
+120151,Barreiro (Santa Rita),1
+120152,Caracol,1
+120153,Febres Cordero (Las Juntas) (Cab. en Mata de Cacao),1
+120154,Pimocha,1
+120155,La Unión,1
+120199,Sin Especificar,1
+120250,Baba Cabecera Cantonal,2
+120251,Guare,2
+120252,Isla de Bejuca,2
+120299,Sin Especificar,2
+120350,Montalvo Cabecera Cantonal,3
+120351,La Esmeralda,3
+120399,Sin Especificar,3
+120450,Puebloviejo Cabecera Cantonal,4
+120451,Puerto Pechiche,4
+120452,San Juan,4
+120499,Sin Especificar,4
+120501,Quevedo,5
+120502,San Camilo,5
+120503,San José,5
+120504,Guayacán,5
+120505,Nicolás Infante Díaz,5
+120506,San Cristóbal,5
+120507,Siete de Octubre,5
+120508,24 de Mayo,5
+120509,Venus del Río Quevedo,5
+120510,Viva Alfaro,5
+120550,Quevedo Cabecera Cantonal,5
+120551,Buena Fé,5
+120552,Mocache,5
+120553,San Carlos,5
+120554,Valencia,5
+120555,La Esperanza,5
+120599,Sin Especificar,5
+120650,Catarama Cabecera Cantonal,6
+120651,Ricaurte,6
+120699,Sin Especificar,6
+120701,10 de Noviembre,7
+120750,Ventanas Cabecera Cantonal,7
+120751,Quinsaloma,7
+120752,Zapotal,7
+120753,Chacarita,7
+120754,Los Ángeles,7
+120799,Sin Especificar,7
+120850,Vinces Cabecera Cantonal,8
+120851,Antonio Sotomayor (Cab. en Playas de Vinces),8
+120852,Palenque,8
+120899,Sin Especificar,8
+120950,Palenque Cabecera Cantonal,9
+120999,Sin Especificar,9
+121001,San Jacinto de Buena Fé,10
+121002,7 de Agosto,10
+121003,11 de Octubre,10
+121050,San Jacinto de Buena Fé Cabecera Cantonal,10
+121051,Patricia Pilar,10
+121099,Sin Especificar,10
+121150,Valencia Cabecera Cantonal,11
+121199,Sin Especificar,11
+121250,Mocache Cabecera Cantonal,12
+121299,Sin Especificar,12
+121350,Quinsaloma Cabecera Cantonal,13
+121399,Sin Especificar,13
+130101,Portoviejo,1
+130102,12 de Marzo,1
+130103,Colón,1
+130104,Picoazá,1
+130105,San Pablo,1
+130106,Andrés de Vera,1
+130107,Francisco Pacheco,1
+130108,18 de Octubre,1
+130109,Simón Bolívar,1
+130150,Portoviejo Cabecera Cantonal y Capital Provincial,1
+130151,Abdón Calderón (San Francisco),1
+130152,Alhajuela (Bajo Grande),1
+130153,Crucita,1
+130154,Pueblo Nuevo,1
+130155,Riochico (Río Chico),1
+130156,San Plácido,1
+130157,Chirijos,1
+130199,Sin Especificar,1
+130250,Calceta Cabecera Cantonal,2
+130251,Membrillo,2
+130252,Quiroga,2
+130299,Sin Especificar,2
+130301,Chone,3
+130302,Santa Rita,3
+130350,Chone Cabecera Cantonal,3
+130351,Boyacá,3
+130352,Canuto,3
+130353,Convento,3
+130354,Chibunga,3
+130355,Eloy Alfaro,3
+130356,Ricaurte,3
+130357,San Antonio,3
+130399,Sin Especificar,3
+130401,El Carmen,4
+130402,4de Diciembre,4
+130450,El Carmen Cabecera Cantonal,4
+130451,Wilfrido Loor Moreira (Maicito),4
+130452,San Pedro de Suma,4
+130499,Sin Especificar,4
+130550,Flavio Alfaro Cabecera Cantonal,5
+130551,San Francisco de Novillo (Cab. en Novillo),5
+130552,Zapallo,5
+130599,Sin Especificar,5
+130601,Dr. Miguel Morán Lucio,6
+130602,Manuel Inocencio Parrales y Guale,6
+130603,San Lorenzo de Jipijapa,6
+130650,Jipijapa Cabecera Cantonal,6
+130651,América,6
+130652,El Anegado (Cab. en Eloy Alfaro),6
+130653,Julcuy,6
+130654,La Unión,6
+130655,Machalilla,6
+130656,Membrillal,6
+130657,Pedro Pablo Gómez,6
+130658,Puerto de Cayo,6
+130659,Puerto López,6
+130699,Sin Especificar,6
+130750,Junín Cabecera Cantonal,7
+130799,Sin Especificar,7
+130801,Los Esteros,8
+130802,Manta,8
+130803,San Mateo,8
+130804,Tarqui,8
+130805,Eloy Alfaro,8
+130850,Manta Cabecera Cantonal,8
+130851,San Lorenzo,8
+130852,Santa Marianita (Boca de Pacoche),8
+130899,Sin Especificar,8
+130901,Anibal San Andrés,9
+130902,Montecristi,9
+130903,El Colorado,9
+130904,General Eloy Alfaro,9
+130905,Leonidas Proaño,9
+130950,Montecristi Cabecera Cantonal,9
+130951,Jaramijó,9
+130952,La Pila,9
+130999,Sin Especificar,9
+131050,Paján Cabecera Cantonal,10
+131051,Campozano (La Palma de Paján),10
+131052,Cascol,10
+131053,Guale,10
+131054,Lascano,10
+131099,Sin Especificar,10
+131150,Pichincha Cabecera Cantonal,11
+131151,Barraganete,11
+131152,San Sebastián,11
+131199,Sin Especificar,11
+131250,Rocafuerte Cabecera Cantonal,12
+131299,Sin Especificar,12
+131301,Santa Ana,13
+131302,Lodana,13
+131350,Santa Ana de Vuelta Larga Cabecera Cantonal,13
+131351,Ayacucho,13
+131352,Honorato Vásquez (Cab. en Vásquez),13
+131353,La Unión,13
+131354,Olmedo,13
+131355,San Pablo (Cab. en Pueblo Nuevo),13
+131399,Sin Especificar,13
+131401,Bahía de Caráquez,14
+131402,Leonidas Plaza Gutiérrez,14
+131450,Bahía de Caráquez Cabecera Cantonal,14
+131451,Canoa,14
+131452,Cojimíes,14
+131453,Charapotó,14
+131454,10 de Agosto,14
+131455,Jama,14
+131456,Pedernales,14
+131457,San Isidro,14
+131458,San Vicente,14
+131499,Sin Especificar,14
+131550,Tosagua Cabecera Cantonal,15
+131551,Bachillero,15
+131552,Ángel Pedro Giler (La Estancilla),15
+131599,Sin Especificar,15
+131650,Sucre Cabecera Cantonal,16
+131651,Bellavista,16
+131652,Noboa,16
+131653,Arq. Sixto Durán Ballén,16
+131699,Sin Especificar,16
+131750,Pedernales Cabecera Cantonal,17
+131751,Cojimíes,17
+131752,10 de Agosto,17
+131753,Atahualpa,17
+131799,Sin Especificar,17
+131850,Olmedo Cabecera Cantonal,18
+131899,Sin Especificar,18
+131950,Puerto López Cabecera Cantonal,19
+131951,Machalilla,19
+131952,Salango,19
+131999,Sin Especificar,19
+132050,Jama Cabecera Cantonal,20
+132099,Sin Especificar,20
+132150,Jaramijó Cabecera Cantonal,21
+132199,Sin Especificar,21
+132250,San Vicente Cabecera Cantonal,22
+132251,Canoa,22
+132299,Sin Especificar,22
+140150,Macas Cabecera Cantonal y Capital Provincial,1
+140151,Alshi (Cab. en 9 de Octubre),1
+140152,Chiguaza,1
+140153,General Proaño,1
+140154,Huasaga (Cab.en Wampuik),1
+140155,Macuma,1
+140156,San Isidro,1
+140157,Sevilla Don Bosco,1
+140158,Sinaí,1
+140159,Taisha,1
+140160,Zuña (Zúñac),1
+140161,Tuutinentza,1
+140162,Cuchaentza,1
+140163,San José de Morona,1
+140164,Río Blanco,1
+140199,Sin Especificar,1
+140201,Gualaquiza,2
+140202,Mercedes Molina,2
+140250,Gualaquiza Cabecera Cantonal,2
+140251,Amazonas (Rosario de Cuyes),2
+140252,Bermejos,2
+140253,Bomboiza,2
+140254,Chiguinda,2
+140255,El Rosario,2
+140256,Nueva Tarqui,2
+140257,San Miguel de Cuyes,2
+140258,El Ideal,2
+140299,Sin Especificar,2
+140350,General Leonidas Plaza Gutiérrez (Limón) Cabecera Cantonal,3
+140351,Indanza,3
+140352,Pan de Azúcar,3
+140353,San Antonio (Cab. en San Antonio Centro),3
+140354,San Carlos de Limón (San Carlos del Zamora),3
+140355,San Juan Bosco,3
+140356,San Miguel de Conchay,3
+140357,Santa Susana de Chiviaza (Cab. en Chiviaza),3
+140358,Yunganza (Cab. en El Rosario),3
+140399,Sin Especificar,3
+140450,Palora (Metzera)Cabecera Cantonal,4
+140451,Arapicos,4
+140452,Cumandá (Cab. en Colonia Agrícola Sevilla del Oro),4
+140453,Huamboya,4
+140454,Sangay (Cab. en Nayamanaca),4
+140455,16 de Agosto,4
+140499,Sin Especificar,4
+140550,Santiago de Méndez Cabecera Cantonal,5
+140551,Copal,5
+140552,Chupianza,5
+140553,Patuca,5
+140554,San Luis de El Acho (Cab. en El Acho),5
+140556,Tayuza,5
+140557,San Francisco de Chinimbimi,5
+140599,Sin Especificar,5
+140650,Sucúa Cabecera Cantonal,6
+140651,Asunción,6
+140652,Huambi,6
+140653,Logroño,6
+140654,Yaupi,6
+140655,Santa Marianita de Jesús,6
+140699,Sin Especificar,6
+140750,Huamboya Cabecera Cantonal,7
+140751,Chiguaza,7
+140752,Pablo Sexto,7
+140799,Sin Especificar,7
+140850,San Juan Bosco Cabecera Cantonal,8
+140851,Pan de Azúcar,8
+140852,San Carlos de Limón  ,8
+140853,San Jacinto de Wakambeis,8
+140854,Santiago de Pananza,8
+140899,Sin Especificar,8
+140950,Taisha Cabecera Cantonal,9
+140951,Huasaga (Cab. en Wampuik),9
+140952,Macuma,9
+140953,Tuutinentza,9
+140954,Pumpuentsa,9
+140999,Sin Especificar,9
+141050,Logroño Cabecera Cantonal,10
+141051,Yaupi,10
+141052,Shimpis,10
+141099,Sin Especificar,10
+141150,Pablo Sexto Cabecera Cantonal,11
+141199,Sin Especificar,11
+141250,Santiago Cabecera Cantonal,12
+141251,San José de Morona,12
+141299,Sin Especificar,12
+150150,Tena Cabecera Cantonal y Capital Provincial,1
+150151,Ahuano,1
+150152,Carlos Julio Arosemena Tola (Zatza-Yacu),1
+150153,Chontapunta,1
+150154,Pano,1
+150155,Puerto Misahualli,1
+150156,Puerto Napo,1
+150157,Tálag,1
+150158,San Juan de Muyuna,1
+150199,Sin Especificar,1
+150350,Archidona Cabecera Cantonal,3
+150351,Avila,3
+150352,Cotundo,3
+150353,Loreto,3
+150354,San Pablo de Ushpayacu,3
+150355,Puerto Murialdo,3
+150356,Hatun Sumaku,3
+150399,Sin Especificar,3
+150450,El Chaco Cabecera Cantonal,4
+150451,Gonzalo Díaz de Pineda (El Bombón),4
+150452,Linares,4
+150453,Oyacachi,4
+150454,Santa Rosa,4
+150455,Sardinas,4
+150499,Sin Especificar,4
+150750,Baeza Cabecera Cantonal,7
+150751,Cosanga,7
+150752,Cuyuja,7
+150753,Papallacta,7
+150754,San Francisco de Borja (Virgilio Dávila),7
+150755,San José del Payamino,7
+150756,Sumaco,7
+150799,Sin Especificar,7
+150950,Carlos Julio Arosemena Tola Cabecera Cantonal,9
+150999,Sin Especificar,9
+160150,Puyo Cabecera Cantonal y Capital Provincial,1
+160151,Arajuno,1
+160152,Canelos,1
+160153,Curaray,1
+160154,Diez de Agosto,1
+160155,Fátima,1
+160156,Montalvo (Andoas),1
+160157,Pomona,1
+160158,Río Corrientes,1
+160159,Río Tigre,1
+160160,Santa Clara,1
+160161,Sarayacu,1
+160162,Simón Bolívar  (Cab. en Mushullacta),1
+160163,Tarqui,1
+160164,Teniente Hugo Ortiz,1
+160165,Veracruz  (Cab. en Indillama),1
+160166,El Triunfo,1
+160199,Sin Especificar,1
+160250,Mera Cabecera Cantonal,2
+160251,Madre Tierra,2
+160252,Shell,2
+160299,Sin Especificar,2
+160350,Santa Clara Cabecera Cantonal,3
+160351,San José,3
+160399,Sin Especificar,3
+160450,Arajuno Cabecera Cantonal,4
+160451,Curaray,4
+160499,Sin Especificar,4
+170101,Belisario Quevedo,1
+170102,Carcelén,1
+170103,Centro Histórico,1
+170104,Cochapamba,1
+170105,Comité del Pueblo,1
+170106,Cotocollao,1
+170107,Chilibulo,1
+170108,Chillogallo,1
+170109,Chimbacalle,1
+170110,El Condado,1
+170111,Guamaní,1
+170112,Iñaquito,1
+170113,Itchimbía,1
+170114,Jipijapa,1
+170115,Kennedy,1
+170116,La Argelia,1
+170117,La Concepción,1
+170118,La Ecuatoriana,1
+170119,La Ferroviaria,1
+170120,La Libertad,1
+170121,La Magadalena,1
+170122,La Mena,1
+170123,Mariscal Sucre,1
+170124,Ponceano,1
+170125,Puengasí,1
+170126,Quitumbe,1
+170127,Rumipamba,1
+170128,San Bartolo,1
+170129,San Isidro del Inca,1
+170130,San Juan,1
+170131,Solanda,1
+170132,Turubamba,1
+170150,Quito Distrito Metropolitano Cabecera Cantonal,1
+170151,Alangasí,1
+170152,Amaguaña,1
+170153,Atahualpa,1
+170154,Calacalí,1
+170155,Calderón,1
+170156,Conocoto,1
+170157,Cumbayá,1
+170158,Chavezpamba,1
+170159,Checa (Chilpa),1
+170160,El Quinche,1
+170161,Gualea,1
+170162,Guangopolo,1
+170163,Guayllabamba,1
+170164,La Merced,1
+170165,Llano Chico,1
+170166,Lloa,1
+170167,Mindo,1
+170168,Nanegal,1
+170169,Nanegalito,1
+170170,Nayón,1
+170171,Nono,1
+170172,Pacto,1
+170173,Pedro Vicente Maldonado,1
+170174,Perucho,1
+170175,Pifo,1
+170176,Píntag,1
+170177,Pomasqui,1
+170178,Puéllaro,1
+170179,Puembo,1
+170180,San Antonio,1
+170181,San José de Minas,1
+170182,San Miguel de los Bancos,1
+170183,Tababela,1
+170184,Tumbaco,1
+170185,Yaruquí,1
+170186,Zámbiza,1
+170187,Puerto Quito,1
+170199,Sin Especificar,1
+170201,Ayora,2
+170202,Cayambe,2
+170203,Juan Montalvo,2
+170250,Cayambe Cabecera Cantonal,2
+170251,Ascázubi,2
+170252,Cangahua,2
+170253,Olmedo (Pesillo),2
+170254,Otón,2
+170255,Santa Rosa de Cuzubamba,2
+170256,San José de Ayora,2
+170299,Sin Especificar,2
+170350,Machachi Cabecera Cantonal,3
+170351,Alóag,3
+170352,Aloasí,3
+170353,Cutuglahua,3
+170354,El Chaupi,3
+170355,Manuel Cornejo Astorga (Tandapi),3
+170356,Tambillo,3
+170357,Uyumbicho,3
+170399,Sin Especificar,3
+170450,Tabacundo Cabecera Cantonal,4
+170451,La Esperanza,4
+170452,Malchinguí,4
+170453,Tocachi,4
+170454,Tupigachi,4
+170499,Sin Especificar,4
+170501,Sangolquí,5
+170502,San Pedro de Taboada,5
+170503,San Rafael,5
+170550,Sangolquí Cabecera Cantonal,5
+170551,Cotogchoa,5
+170552,Rumipamba,5
+170599,Sin Especificar,5
+170750,San Miguel de los Bancos Cabecera Cantonal,7
+170751,Mindo,7
+170752,Pedro Vicente Maldonado,7
+170753,Puerto Quito,7
+170799,Sin Especificar,7
+170850,Pedro Vicente Maldonado Cabecera Cantonal,8
+170899,Sin Especificar,8
+170950,Puerto Quito Cabecera Cantonal,9
+170999,Sin Especificar,9
+180101,Atocha - Ficoa,1
+180102,Celiano Monge,1
+180103,Huachi Chico,1
+180104,Huachi Loreto,1
+180105,La Merced,1
+180106,La Península,1
+180107,Matriz,1
+180108,Pishilata,1
+180109,San Francisco,1
+180150,Ambato Cabecera Cantonal y Capital Provincial,1
+180151,Ambatillo,1
+180152,Atahualpa (Chisalata),1
+180153,Augusto N. Martínez (Mundugleo),1
+180154,Constantino Fernández (Cab. en Cullitahua),1
+180155,Huachi Grande,1
+180156,Izamba,1
+180157,Juan Benigno Vela,1
+180158,Montalvo,1
+180159,Pasa,1
+180160,Picaigua,1
+180161,Pilagüín (Pilahüín),1
+180162,Quisapincha (Quizapincha),1
+180163,San Bartolomé de Pinllog,1
+180164,San Fernando (Pasa San Fernando),1
+180165,Santa Rosa,1
+180166,Totoras,1
+180167,Cunchibamba,1
+180168,Unamuncho,1
+180199,Sin Especificar,1
+180250,Baños de Agua Santa Cabecera Cantonal,2
+180251,Lligua,2
+180252,Río Negro,2
+180253,Río Verde,2
+180254,Ulba,2
+180299,Sin Especificar,2
+180350,Cevallos Cabecera Cantonal,3
+180399,Sin Especificar,3
+180450,Mocha Cabecera Cantonal,4
+180451,Pinguilí,4
+180499,Sin Especificar,4
+180550,Patate Cabecera Cantonal,5
+180551,El Triunfo,5
+180552,Los Andes (Cab. en Poatug),5
+180553,Sucre (Cab. en Sucre-Patate Urcu),5
+180599,Sin Especificar,5
+180650,Quero Cabecera Cantonal,6
+180651,Rumipamba,6
+180652,Yanayacu - Mochapata (Cab. en Yanayacu),6
+180699,Sin Especificar,6
+180701,Pelileo,7
+180702,Pelileo Grande,7
+180750,Pelileo Cabecera Cantonal,7
+180751,Benítez (Pachanlica),7
+180752,Bolívar,7
+180753,Cotaló,7
+180754,Chiquicha (Cab. en Chiquicha Grande),7
+180755,El Rosario (Rumichaca),7
+180756,García Moreno (Chumaqui),7
+180757,Guambaló (Huambaló),7
+180758,Salasaca,7
+180799,Sin Especificar,7
+180801,Ciudad Nueva,8
+180802,Píllaro,8
+180850,Píllaro Cabecera Cantonal,8
+180851,Baquerizo Moreno,8
+180852,Emilio María Terán (Rumipamba),8
+180853,Marcos Espinel (Chacata),8
+180854,Presidente Urbina (Chagrapamba -Patzucul),8
+180855,San Andrés,8
+180856,San José de Poaló,8
+180857,San Miguelito,8
+180899,Sin Especificar,8
+180950,Tisaleo Cabecera Cantonal,9
+180951,Quinchicoto,9
+180999,Sin Especificar,9
+190101,El Limón,1
+190102,Zamora,1
+190150,Zamora Cabecera Cantonal y Capital Provincial,1
+190151,Cumbaratza,1
+190152,Guadalupe,1
+190153,Imbana (La Victoria de Imbana),1
+190154,Paquisha,1
+190155,Sabanilla,1
+190156,Timbara,1
+190157,Zumbi,1
+190158,San Carlos de las Minas,1
+190199,Sin Especificar,1
+190250,Zumba Cabecera Cantonal,2
+190251,Chito,2
+190252,El Chorro,2
+190253,El Porvenir del Carmen,2
+190254,La Chonta,2
+190255,Palanda,2
+190256,Pucapamba,2
+190257,San Francisco del Vergel,2
+190258,Valladolid,2
+190259,San Andrés,2
+190299,Sin Especificar,2
+190350,Guayzimi Cabecera Cantonal,3
+190351,Zurmi,3
+190352,Nuevo Paraíso,3
+190399,Sin Especificar,3
+190450,28 de Mayo (San José de Yacuambi) Cabecera Cantonal,4
+190451,La Paz,4
+190452,Tutupali,4
+190499,Sin Especificar,4
+190550,Yantzaza (Yanzatza) Cabecera Cantonal,5
+190551,Chicaña,5
+190552,El Pangui,5
+190553,Los Encuentros,5
+190599,Sin Especificar,5
+190650,El Pangui Cabecera Cantonal,6
+190651,El Guisme,6
+190652,Pachicutza,6
+190653,Tundayme,6
+190699,Sin Especificar,6
+190750,Zumbi Cabecera Cantonal,7
+190751,Paquisha,7
+190752,Triunfo - Dorado,7
+190753,Panguintza,7
+190799,Sin Especificar,7
+190850,Palanda Cabecera Cantonal,8
+190851,El Porvenir del Carmen,8
+190852,San Francisco del Vergel,8
+190853,Valladolid,8
+190854,La Canela,8
+190899,Sin Especificar,8
+190950,Paquisha Cabecera Cantonal,9
+190951,Bellavista,9
+190952,Nuevo Quito,9
+190999,Sin Especificar,9
+200150,Puerto Baquerizo Moreno Cabecera Cantonal y Capital Provincial,1
+200151,El Progreso,1
+200152,Isla Santa María (Floreana) (Cab. en  Pto. Velasco Ibarra),1
+200199,Sin Especificar,1
+200250,Puerto Villamil Cabecera Cantonal,2
+200251,Tomás de Berlanga (Santo Tomás),2
+200299,Sin Especificar,2
+200350,Puerto Ayora Cabecera Cantonal,3
+200351,Bellavista,3
+200352,Santa Rosa (Incluye La Isla Baltra),3
+200399,Sin Especificar,3
+210150,Nueva Loja Cabecera Cantonal y Capital Provincial,1
+210151,Cuyabeno,1
+210152,Dureno,1
+210153,General Farfán,1
+210154,Tarapoa,1
+210155,El Eno,1
+210156,Pacayacu,1
+210157,Jambelí,1
+210158,Santa Cecilia,1
+210159,Aguas Negras,1
+210160,10 de Agosto,1
+210199,Sin Especificar,1
+210250,Lumbaquí Cabecera Cantonal,2
+210251,El Reventador,2
+210252,Gonzalo Pizarro,2
+210253,Lumbaquí,2
+210254,Puerto Libre,2
+210255,Santa Rosa de Sucumbíos,2
+210299,Sin Especificar,2
+210350,Puerto El Carmen del Putumayo Cabecera Cantonal,3
+210351,Palma Roja,3
+210352,Puerto Bolívar (Puerto Montúfar),3
+210353,Puerto Rodríguez,3
+210354,Santa Elena,3
+210399,Sin Especificar,3
+210450,Shushufindi Cabecera Cantonal,4
+210451,Limoncocha,4
+210452,Pañacocha,4
+210453,San Roque (Cab. en San Vicente),4
+210454,San Pedro de Los Cofanes,4
+210455,Siete de Julio,4
+210499,Sin Especificar,4
+210550,La Bonita Cabecera Cantonal,5
+210551,El Playón de San Francisco,5
+210552,La Sofía,5
+210553,Rosa Florida,5
+210554,Santa Bárbara,5
+210599,Sin Especificar,5
+210650,El Dorado de Cascales Cabecera Cantonal,6
+210651,Santa Rosa de Sucumbíos,6
+210652,Sevilla,6
+210699,Sin Especificar,6
+210750,Tarapoa  Cabecera Cantonal,7
+210751,Cuyabeno,7
+210752,Aguas Negras,7
+210799,Sin Especificar,7
+220150,Puerto Francisco de Orellana (El Coca),1
+220151,Dayuma,1
+220152,Taracoa (Nueva Esperanza: Yuca),1
+220153,Alejandro Labaka,1
+220154,El Dorado,1
+220155,El Edén,1
+220156,García Moreno,1
+220157,Inés Arango (Cab. en Western),1
+220158,La Belleza,1
+220159,Nuevo Paraíso (Cab. en Unión Chimborazo),1
+220160,San José de Guayusa,1
+220161,San Luis de Armenia,1
+220199,Sin Especificar,1
+220250,Nuevo Rocafuerte Cabecera Cantonal,2
+220251,Capitán Augusto Rivadeneyra,2
+220252,Cononaco,2
+220253,Santa María de Huiririma,2
+220254,Tiputini,2
+220255,Yasuní,2
+220299,Sin Especificar,2
+220350,La Joya de los Sachas Cabecera Cantonal,3
+220351,Enokanqui,3
+220352,Pompeya,3
+220353,San Carlos,3
+220354,San Sebastián del Coca,3
+220355,Lago San Pedro,3
+220356,Rumipamba,3
+220357,Tres de Noviembre,3
+220358,Unión Milagreña,3
+220399,Sin Especificar,3
+220450,Loreto Cabecera Cantonal,4
+220451,Avila (Cab. en Huiruno),4
+220452,Puerto Murialdo,4
+220453,San José de Payamino,4
+220454,San José de Dahuano,4
+220455,San Vicente de Huaticocha,4
+220499,Sin Especificar,4
+230101,Abraham Calazacón,1
+230102,Bombolí,1
+230103,Chiguilpe,1
+230104,Río Toachi,1
+230105,Río Verde,1
+230106,Santo Domingo de los Coloradoss,1
+230107,Zaracay,1
+230150,Santo Domingo de los Colorados Cabecera Cantonal y Capital Provincial,1
+230151,Alluriquín,1
+230152,Puerto Limón,1
+230153,Luz de América,1
+230154,San Jacinto del Búa,1
+230155,Valle Hermoso,1
+230156,El Esfuerzo,1
+230157,Santa María del Toachi,1
+230199,Sin Especificar,1
+230250,La Concordia Cabecera Cantonal,2
+230251,Monterrey,2
+230252,La Villegas,2
+230253,Plan Piloto,2
+230299,Sin Especificar,2
+240101,Ballenita,1
+240102,Santa Elena,1
+240150,Santa Elena Cabecera Cantonal y Capital Provincial,1
+240151,Atahualpa,1
+240152,Colonche,1
+240153,Chanduy,1
+240154,Manglaralto,1
+240155,Simón Bolívar (Julio Moreno),1
+240156,San José de Ancón,1
+240199,Sin Especificar,1
+240250,La Libertad Cabecera Cantonal,2
+240299,Sin Especificar,2
+240301,Carlos Espinoza Larrea,3
+240302,Gral. Alberto Enríquez Gallo,3
+240303,Vicente Rocafuerte,3
+240304,Santa Rosa,3
+240350,Salinas Cabecera Cantonal,3
+240351,Anconcito,3
+240352,José Luis Tamayo (Muey),3
+240399,Sin Especificar,3
+880000,Exterior,0
+900151,Las Golondrina,1
+900199,Sin Especificar,1
+900351,Manga del Cura,3
+900399,Sin Especificar,3
+900451,El Piedrero,4
+900499,Sin Especificar,4
