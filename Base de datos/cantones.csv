@@ -1,233 +1,233 @@
-01,Cuenca,01
-02,Girón,01
-03,Gualaceo,01
-04,Nabón,01
-05,Paute,01
-06,Pucará,01
-07,San Fernando,01
-08,Santa Isabel,01
-09,Sigsig,01
-10,Oña,01
-11,Chordeleg,01
-12,El Pan,01
-13,Sevilla de Oro,01
-14,Guachapala,01
-15,Camilo Ponce Enríquez,01
-01,Guaranda,02
-02,Chillanes,02
-03,Chimbo,02
-04,Echeandía,02
-05,San Miguel,02
-06,Caluma,02
-07,Las Naves,02
-01,Azogues,03
-02,Biblián,03
-03,Cañar,03
-04,La Troncal,03
-05,El Tambo,03
-06,Déleg,03
-07,Suscal,03
-01,Tulcán,04
-02,Bolívar,04
-03,Espejo,04
-04,Mira,04
-05,Montúfar,04
-06,San Pedro de Huaca,04
-01,Latacunga,05
-02,La Maná,05
-03,Pangua,05
-04,Pujilí,05
-05,Salcedo,05
-06,Saquisilí,05
-07,Sigchos,05
-01,Riobamba,06
-02,Alausí,06
-03,Colta,06
-04,Chambo,06
-05,Chunchi,06
-06,Guamote,06
-07,Guano,06
-08,Pallatanga,06
-09,Penipe,06
-10,Cumandá,06
-01,Machala,07
-02,Arenillas,07
-03,Atahualpa,07
-04,Balsas,07
-05,Chilla,07
-06,El Guabo,07
-07,Huaquillas,07
-08,Marcabelí,07
-09,Pasaje,07
-10,Piñas,07
-11,Portovelo,07
-12,Santa Rosa,07
-13,Zaruma,07
-14,Las Lajas,07
-01,Esmeraldas,08
-02,Eloy Alfaro,08
-03,Muisne,08
-04,Quinindé,08
-05,San Lorenzo,08
-06,Atacames,08
-07,Rioverde,08
-01,Guayaquil,09
-02,Alfredo Baquerizo Moreno (Juján),09
-03,Balao,09
-04,Balzar,09
-05,Colimes,09
-06,Daule,09
-07,Durán,09
-08,El Empalme,09
-09,El Triunfo,09
-10,Milagro,09
-11,Naranjal,09
-12,Naranjito,09
-13,Palestina,09
-14,Pedro Carbo,09
-15,Salinas,09
-16,Samborondón,09
-17,Santa Elena,09
-18,Santa Lucía,09
-19,Salitre (Urbina Jado),09
-20,San Jacinto de Yaguachi,09
-21,Playas,09
-22,Simón Bolívar,09
-23,Coronel Marcelino Maridueña,09
-24,Lomas de Sargentillo,09
-25,Nobol,09
-26,La Libertad,09
-27,General Antonio Elizalde (Bucay),09
-28,Isidro Ayora,09
-01,Ibarra,10
-02,Antonio Ante,10
-03,Cotacachi,10
-04,Otavalo,10
-05,Pimampiro,10
-06,San Miguel de Urcuquí,10
-01,Loja,11
-02,Calvas,11
-03,Catamayo,11
-04,Celica,11
-05,Chaguarpamba,11
-06,Espíndola,11
-07,Gonzanamá,11
-08,Macará,11
-09,Paltas,11
-10,Puyango,11
-11,Saraguro,11
-12,Sozoranga,11
-13,Zapotillo,11
-14,Pindal,11
-15,Quilanga,11
-16,Olmedo,11
-01,Babahoyo,12
-02,Baba,12
-03,Montalvo,12
-04,Puebloviejo,12
-05,Quevedo,12
-06,Urdaneta,12
-07,Ventanas,12
-08,Vinces,12
-09,Palenque,12
-10,Buena Fé,12
-11,Valencia,12
-12,Mocache,12
-13,Quinsaloma,12
-01,Portoviejo,13
-02,Bolívar,13
-03,Chone,13
-04,El Carmen,13
-05,Flavio Alfaro,13
-06,Jipijapa,13
-07,Junín,13
-08,Manta,13
-09,Montecristi,13
-10,Paján,13
-11,Pichincha,13
-12,Rocafuerte,13
-13,Santa Ana,13
-14,Sucre,13
-15,Tosagua,13
-16,24 de Mayo,13
-17,Pedernales,13
-18,Olmedo,13
-19,Puerto López,13
-20,Jama,13
-21,Jaramijó,13
-22,San Vicente,13
-01,Morona,14
-02,Gualaquiza,14
-03,Limón Indanza,14
-04,Palora,14
-05,Santiago,14
-06,Sucúa,14
-07,Huamboya,14
-08,San Juan Bosco,14
-09,Taisha,14
-10,Logroño,14
-11,Pablo Sexto,14
-12,Tiwintza,14
-01,Tena,15
-02,Aguarico,15
-03,Archidona,15
-04,El Chaco,15
-05,La Joya de los Sachas,15
-06,Orellana,15
-07,Quijos,15
-08,Loreto,15
-09,Carlos Julio Arosemena Tola,15
-01,Pastaza,16
-02,Mera,16
-03,Santa Clara,16
-04,Arajuno,16
-01,Quito,17
-02,Cayambe,17
-03,Mejía,17
-04,Pedro Moncayo,17
-05,Rumiñahui,17
-06,Santo Domingo,17
-07,San Miguel de los Bancos,17
-08,Pedro Vicente Maldonado,17
-09,Puerto Quito,17
-01,Ambato,18
-02,Baños de Agua Santa,18
-03,Cevallos,18
-04,Mocha,18
-05,Patate,18
-06,Quero,18
-07,San Pedro de Pelileo,18
-08,Santiago de Píllaro,18
-09,Tisaleo,18
-01,Zamora,19
-02,Chinchipe,19
-03,Nangaritza,19
-04,Yacuambí,19
-05,Yantzaza (Yanzatza),19
-06,El Pangui,19
-07,Centinela del Cóndor,19
-08,Palanda,19
-09,Paquisha,19
-01,San Cristóbal,20
-02,Isabela,20
-03,Santa Cruz,20
-01,Lago Agrio,21
-02,Gonzalo Pizarro,21
-03,Putumayo,21
-04,Shushufindi,21
-05,Sucumbíos,21
-06,Cascales,21
-07,Cuyabeno,21
-01,Orellana,22
-02,Aguarico,22
-03,La Joya de los Sachas,22
-04,Loreto,22
-01,Santo Domingo,23
-02,La Concordia,23
-01,Santa Elena,24
-02,La Libertad,24
-03,Salinas,24
-00,Exterior,88
-01,Las Golondrinas,90
-03,Manga del Cura,90
-04,El Piedrero,90
+1,1,Cuenca,1
+2,2,Girón,1
+3,3,Gualaceo,1
+4,4,Nabón,1
+5,5,Paute,1
+6,6,Pucará,1
+7,7,San Fernando,1
+8,8,Santa Isabel,1
+9,9,Sigsig,1
+10,10,Oña,1
+11,11,Chordeleg,1
+12,12,El Pan,1
+13,13,Sevilla de Oro,1
+14,14,Guachapala,1
+15,15,Camilo Ponce Enríquez,1
+16,1,Guaranda,2
+17,2,Chillanes,2
+18,3,Chimbo,2
+19,4,Echeandía,2
+20,5,San Miguel,2
+21,6,Caluma,2
+22,7,Las Naves,2
+23,1,Azogues,3
+24,2,Biblián,3
+25,3,Cañar,3
+26,4,La Troncal,3
+27,5,El Tambo,3
+28,6,Déleg,3
+29,7,Suscal,3
+30,1,Tulcán,4
+31,2,Bolívar,4
+32,3,Espejo,4
+33,4,Mira,4
+34,5,Montúfar,4
+35,6,San Pedro de Huaca,4
+36,1,Latacunga,5
+37,2,La Maná,5
+38,3,Pangua,5
+39,4,Pujilí,5
+40,5,Salcedo,5
+41,6,Saquisilí,5
+42,7,Sigchos,5
+43,1,Riobamba,6
+44,2,Alausí,6
+45,3,Colta,6
+46,4,Chambo,6
+47,5,Chunchi,6
+48,6,Guamote,6
+49,7,Guano,6
+50,8,Pallatanga,6
+51,9,Penipe,6
+52,10,Cumandá,6
+53,1,Machala,7
+54,2,Arenillas,7
+55,3,Atahualpa,7
+56,4,Balsas,7
+57,5,Chilla,7
+58,6,El Guabo,7
+59,7,Huaquillas,7
+60,8,Marcabelí,7
+61,9,Pasaje,7
+62,10,Piñas,7
+63,11,Portovelo,7
+64,12,Santa Rosa,7
+65,13,Zaruma,7
+66,14,Las Lajas,7
+67,1,Esmeraldas,8
+68,2,Eloy Alfaro,8
+69,3,Muisne,8
+70,4,Quinindé,8
+71,5,San Lorenzo,8
+72,6,Atacames,8
+73,7,Rioverde,8
+74,1,Guayaquil,9
+75,2,Alfredo Baquerizo Moreno (Juján),9
+76,3,Balao,9
+77,4,Balzar,9
+78,5,Colimes,9
+79,6,Daule,9
+80,7,Durán,9
+81,8,El Empalme,9
+82,9,El Triunfo,9
+83,10,Milagro,9
+84,11,Naranjal,9
+85,12,Naranjito,9
+86,13,Palestina,9
+87,14,Pedro Carbo,9
+88,15,Salinas,9
+89,16,Samborondón,9
+90,17,Santa Elena,9
+91,18,Santa Lucía,9
+92,19,Salitre (Urbina Jado),9
+93,20,San Jacinto de Yaguachi,9
+94,21,Playas,9
+95,22,Simón Bolívar,9
+96,23,Coronel Marcelino Maridueña,9
+97,24,Lomas de Sargentillo,9
+98,25,Nobol,9
+99,26,La Libertad,9
+100,27,General Antonio Elizalde (Bucay),9
+101,28,Isidro Ayora,9
+102,1,Ibarra,10
+103,2,Antonio Ante,10
+104,3,Cotacachi,10
+105,4,Otavalo,10
+106,5,Pimampiro,10
+107,6,San Miguel de Urcuquí,10
+108,1,Loja,11
+109,2,Calvas,11
+110,3,Catamayo,11
+111,4,Celica,11
+112,5,Chaguarpamba,11
+113,6,Espíndola,11
+114,7,Gonzanamá,11
+115,8,Macará,11
+116,9,Paltas,11
+117,10,Puyango,11
+118,11,Saraguro,11
+119,12,Sozoranga,11
+120,13,Zapotillo,11
+121,14,Pindal,11
+122,15,Quilanga,11
+123,16,Olmedo,11
+124,1,Babahoyo,12
+125,2,Baba,12
+126,3,Montalvo,12
+127,4,Puebloviejo,12
+128,5,Quevedo,12
+129,6,Urdaneta,12
+130,7,Ventanas,12
+131,8,Vinces,12
+132,9,Palenque,12
+133,10,Buena Fé,12
+134,11,Valencia,12
+135,12,Mocache,12
+136,13,Quinsaloma,12
+137,1,Portoviejo,13
+138,2,Bolívar,13
+139,3,Chone,13
+140,4,El Carmen,13
+141,5,Flavio Alfaro,13
+142,6,Jipijapa,13
+143,7,Junín,13
+144,8,Manta,13
+145,9,Montecristi,13
+146,10,Paján,13
+147,11,Pichincha,13
+148,12,Rocafuerte,13
+149,13,Santa Ana,13
+150,14,Sucre,13
+151,15,Tosagua,13
+152,16,24 de Mayo,13
+153,17,Pedernales,13
+154,18,Olmedo,13
+155,19,Puerto López,13
+156,20,Jama,13
+157,21,Jaramijó,13
+158,22,San Vicente,13
+159,1,Morona,14
+160,2,Gualaquiza,14
+161,3,Limón Indanza,14
+162,4,Palora,14
+163,5,Santiago,14
+164,6,Sucúa,14
+165,7,Huamboya,14
+166,8,San Juan Bosco,14
+167,9,Taisha,14
+168,10,Logroño,14
+169,11,Pablo Sexto,14
+170,12,Tiwintza,14
+171,1,Tena,15
+172,2,Aguarico,15
+173,3,Archidona,15
+174,4,El Chaco,15
+175,5,La Joya de los Sachas,15
+176,6,Orellana,15
+177,7,Quijos,15
+178,8,Loreto,15
+179,9,Carlos Julio Arosemena Tola,15
+180,1,Pastaza,16
+181,2,Mera,16
+182,3,Santa Clara,16
+183,4,Arajuno,16
+184,1,Quito,17
+185,2,Cayambe,17
+186,3,Mejía,17
+187,4,Pedro Moncayo,17
+188,5,Rumiñahui,17
+189,6,Santo Domingo,17
+190,7,San Miguel de los Bancos,17
+191,8,Pedro Vicente Maldonado,17
+192,9,Puerto Quito,17
+193,1,Ambato,18
+194,2,Baños de Agua Santa,18
+195,3,Cevallos,18
+196,4,Mocha,18
+197,5,Patate,18
+198,6,Quero,18
+199,7,San Pedro de Pelileo,18
+200,8,Santiago de Píllaro,18
+201,9,Tisaleo,18
+202,1,Zamora,19
+203,2,Chinchipe,19
+204,3,Nangaritza,19
+205,4,Yacuambí,19
+206,5,Yantzaza (Yanzatza),19
+207,6,El Pangui,19
+208,7,Centinela del Cóndor,19
+209,8,Palanda,19
+210,9,Paquisha,19
+211,1,San Cristóbal,20
+212,2,Isabela,20
+213,3,Santa Cruz,20
+214,1,Lago Agrio,21
+215,2,Gonzalo Pizarro,21
+216,3,Putumayo,21
+217,4,Shushufindi,21
+218,5,Sucumbíos,21
+219,6,Cascales,21
+220,7,Cuyabeno,21
+221,1,Orellana,22
+222,2,Aguarico,22
+223,3,La Joya de los Sachas,22
+224,4,Loreto,22
+225,1,Santo Domingo,23
+226,2,La Concordia,23
+227,1,Santa Elena,24
+228,2,La Libertad,24
+229,3,Salinas,24
+230,0,Exterior,88
+231,1,Las Golondrinas,90
+232,3,Manga del Cura,90
+233,4,El Piedrero,90

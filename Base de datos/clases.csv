@@ -1,29 +1,29 @@
-1,Hospital Básico
-2,Hospital General
-3,Hospital de Infectologia
-4,Hospital Gineco-Obstetrico
-5,Hospital Pediátrico
-6,Hospital Psiquiátrico y Sanatorio de Alcóholicos
-7,Hospital Dermatológico (leprocomios)
-8,Hospital Oncológico
-9,Hospital Neumológico (Antituberculoso)
-10,Hospital Geriátrico
-11,Hospital de Especialidades
-12,Clínica General
-13,Clínica Privada Especializada en Gineco-Obstetricia
-14,Clínica Privada Especializada en Pediátrica
-15,Clínica Privada Especializada en Traumatología
-16,Clínica Privada Especializada en Psiquiatría
-17,Otras Clínicas Especializadas
-20,Puesto de Salud
-21,Subcentro de Salud
-22,Centro de Salud A
-23,Centro de Salud B
-24,Centro de Salud C
-25,Dispensario Médico (Policlínico)
-26,Consultorio General
-27,Consultorio de Especialidad (es) Clinico-Quirurgico
-28,Centro de Especialidades
-29,Centro Clinico-Quirurgico Ambulatorio (Hospital del dia)
-30,Centros Especializados
-31,Otros Establecimientos sin internación
+1,1,Hospital Básico
+2,2,Hospital General
+3,3,Hospital de Infectologia
+4,4,Hospital Gineco-Obstetrico
+5,5,Hospital Pediátrico
+6,6,Hospital Psiquiátrico y Sanatorio de Alcóholicos
+7,7,Hospital Dermatológico (leprocomios)
+8,8,Hospital Oncológico
+9,9,Hospital Neumológico (Antituberculoso)
+10,10,Hospital Geriátrico
+11,11,Hospital de Especialidades
+12,12,Clínica General
+13,13,Clínica Privada Especializada en Gineco-Obstetricia
+14,14,Clínica Privada Especializada en Pediátrica
+15,15,Clínica Privada Especializada en Traumatología
+16,16,Clínica Privada Especializada en Psiquiatría
+17,17,Otras Clínicas Especializadas
+18,20,Puesto de Salud
+19,21,Subcentro de Salud
+20,22,Centro de Salud A
+21,23,Centro de Salud B
+22,24,Centro de Salud C
+23,25,Dispensario Médico (Policlínico)
+24,26,Consultorio General
+25,27,Consultorio de Especialidad (es) Clinico-Quirurgico
+26,28,Centro de Especialidades
+27,29,Centro Clinico-Quirurgico Ambulatorio (Hospital del dia)
+28,30,Centros Especializados
+29,31,Otros Establecimientos sin internación
