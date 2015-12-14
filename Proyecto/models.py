@@ -85,8 +85,7 @@ class Cantones(models.Model):
     nombre = models.TextField(blank=True)
     idprovincia = models.IntegerField(db_column='idProvincia', blank=True, null=True)  # Field name made lowercase.
     id = models.IntegerField(primary_key=True)  # AutoField?
-    def __str__(self):
-        return self.nombre
+
     class Meta:
         managed = False
         db_table = 'cantones'
@@ -100,8 +99,7 @@ class Centros(models.Model):
     idsector = models.IntegerField(db_column='idSector', blank=True, null=True)  # Field name made lowercase.
     idfarmacia = models.IntegerField(db_column='idFarmacia', blank=True, null=True)  # Field name made lowercase.
     idparroquia = models.IntegerField(db_column='idParroquia', blank=True, null=True)  # Field name made lowercase.
-    def __str__(self):
-        return self.idtipo
+
     class Meta:
         managed = False
         db_table = 'centros'
@@ -110,8 +108,7 @@ class Centros(models.Model):
 class Clases(models.Model):
     idclase = models.IntegerField(db_column='idClase', blank=True, null=True)  # Field name made lowercase.
     nombre = models.TextField(blank=True)
-    def __str__(self):
-        return self.nombre
+
     class Meta:
         managed = False
         db_table = 'clases'
@@ -167,8 +164,7 @@ class DjangoSession(models.Model):
 class Entidades(models.Model):
     identidad = models.IntegerField(db_column='idEntidad', blank=True, null=True)  # Field name made lowercase.
     nombre = models.TextField(blank=True)
-    def __str__(self):
-        return self.nombre
+
     class Meta:
         managed = False
         db_table = 'entidades'
@@ -177,8 +173,7 @@ class Entidades(models.Model):
 class Farmacias(models.Model):
     idfarmacia = models.IntegerField(db_column='idFarmacia', blank=True, null=True)  # Field name made lowercase.
     nombre = models.TextField(blank=True)
-    def __str__(self):
-        return self.nombre
+
     class Meta:
         managed = False
         db_table = 'farmacias'
@@ -188,8 +183,7 @@ class Parroquias(models.Model):
     idparroquia = models.IntegerField(db_column='idParroquia', blank=True, null=True)  # Field name made lowercase.
     nombre = models.TextField(blank=True)
     idcanton = models.IntegerField(db_column='idCanton', blank=True, null=True)  # Field name made lowercase.
-    def __str__(self):
-        return self.nombre
+
     class Meta:
         managed = False
         db_table = 'parroquias'
@@ -198,8 +192,7 @@ class Parroquias(models.Model):
 class Provincias(models.Model):
     idprovincia = models.IntegerField(db_column='idProvincia', blank=True, null=True)  # Field name made lowercase.
     nombre = models.TextField(blank=True)
-    def __str__(self):
-        return self.nombre
+
     class Meta:
         managed = False
         db_table = 'provincias'
@@ -208,8 +201,7 @@ class Provincias(models.Model):
 class Sectores(models.Model):
     idsector = models.IntegerField(db_column='idSector', blank=True, null=True)  # Field name made lowercase.
     nombre = models.TextField(blank=True)
-    def __str__(self):
-        return self.nombre
+
     class Meta:
         managed = False
         db_table = 'sectores'
@@ -218,8 +210,7 @@ class Sectores(models.Model):
 class Tipos(models.Model):
     idtipo = models.IntegerField(db_column='idTipo', blank=True, null=True)  # Field name made lowercase.
     nombre = models.TextField(blank=True)
-    def __str__(self):
-        return self.nombre
+
     class Meta:
         managed = False
         db_table = 'tipos'

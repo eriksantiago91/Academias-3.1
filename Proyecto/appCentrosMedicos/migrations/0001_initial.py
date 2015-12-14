@@ -11,108 +11,192 @@ class Migration(migrations.Migration):
 
     operations = [
         migrations.CreateModel(
-            name='cantones',
+            name='AuthGroup',
             fields=[
-                ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),
-                ('idCant', models.IntegerField(max_length=5)),
-                ('nombre', models.TextField(max_length=200)),
-                ('idProvincia', models.IntegerField(max_length=5)),
             ],
             options={
+                'db_table': 'auth_group',
+                'managed': False,
             },
             bases=(models.Model,),
         ),
         migrations.CreateModel(
-            name='centros',
+            name='AuthGroupPermissions',
             fields=[
-                ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),
-                ('idCentro', models.IntegerField(max_length=5)),
-                ('clase', models.IntegerField(max_length=5)),
-                ('tipo', models.IntegerField(max_length=5)),
-                ('entidad', models.IntegerField(max_length=5)),
-                ('sector', models.IntegerField(max_length=5)),
-                ('farmacia', models.IntegerField(max_length=5)),
-                ('idParroquia', models.IntegerField(max_length=5)),
             ],
             options={
+                'db_table': 'auth_group_permissions',
+                'managed': False,
             },
             bases=(models.Model,),
         ),
         migrations.CreateModel(
-            name='clases',
+            name='AuthPermission',
             fields=[
-                ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),
-                ('idClas', models.IntegerField(max_length=5)),
-                ('nombre', models.TextField(max_length=200)),
             ],
             options={
+                'db_table': 'auth_permission',
+                'managed': False,
             },
             bases=(models.Model,),
         ),
         migrations.CreateModel(
-            name='entidades',
+            name='AuthUser',
             fields=[
-                ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),
-                ('idEnt', models.IntegerField(max_length=5)),
-                ('nombre', models.TextField(max_length=200)),
             ],
             options={
+                'db_table': 'auth_user',
+                'managed': False,
             },
             bases=(models.Model,),
         ),
         migrations.CreateModel(
-            name='farmacias',
+            name='AuthUserGroups',
             fields=[
-                ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),
-                ('idFarm', models.IntegerField(max_length=5)),
-                ('nombre', models.TextField(max_length=200)),
             ],
             options={
+                'db_table': 'auth_user_groups',
+                'managed': False,
             },
             bases=(models.Model,),
         ),
         migrations.CreateModel(
-            name='parroquias',
+            name='AuthUserUserPermissions',
             fields=[
-                ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),
-                ('idParr', models.IntegerField(max_length=5)),
-                ('nombre', models.TextField(max_length=200)),
-                ('idCanton', models.IntegerField(max_length=5)),
             ],
             options={
+                'db_table': 'auth_user_user_permissions',
+                'managed': False,
             },
             bases=(models.Model,),
         ),
         migrations.CreateModel(
-            name='provincias',
+            name='Cantones',
             fields=[
-                ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),
-                ('idProv', models.IntegerField(max_length=5)),
-                ('nombre', models.TextField(max_length=200)),
             ],
             options={
+                'db_table': 'cantones',
+                'managed': False,
             },
             bases=(models.Model,),
         ),
         migrations.CreateModel(
-            name='sectores',
+            name='Centros',
             fields=[
-                ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),
-                ('idSec', models.IntegerField(max_length=5)),
-                ('nombre', models.TextField(max_length=200)),
             ],
             options={
+                'db_table': 'centros',
+                'managed': False,
             },
             bases=(models.Model,),
         ),
         migrations.CreateModel(
-            name='tipos',
+            name='Clases',
             fields=[
-                ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),
-                ('idTip', models.IntegerField(max_length=5)),
-                ('nombre', models.TextField(max_length=200)),
             ],
             options={
+                'db_table': 'clases',
+                'managed': False,
+            },
+            bases=(models.Model,),
+        ),
+        migrations.CreateModel(
+            name='DjangoAdminLog',
+            fields=[
+            ],
+            options={
+                'db_table': 'django_admin_log',
+                'managed': False,
+            },
+            bases=(models.Model,),
+        ),
+        migrations.CreateModel(
+            name='DjangoContentType',
+            fields=[
+            ],
+            options={
+                'db_table': 'django_content_type',
+                'managed': False,
+            },
+            bases=(models.Model,),
+        ),
+        migrations.CreateModel(
+            name='DjangoMigrations',
+            fields=[
+            ],
+            options={
+                'db_table': 'django_migrations',
+                'managed': False,
+            },
+            bases=(models.Model,),
+        ),
+        migrations.CreateModel(
+            name='DjangoSession',
+            fields=[
+            ],
+            options={
+                'db_table': 'django_session',
+                'managed': False,
+            },
+            bases=(models.Model,),
+        ),
+        migrations.CreateModel(
+            name='Entidades',
+            fields=[
+            ],
+            options={
+                'db_table': 'entidades',
+                'managed': False,
+            },
+            bases=(models.Model,),
+        ),
+        migrations.CreateModel(
+            name='Farmacias',
+            fields=[
+            ],
+            options={
+                'db_table': 'farmacias',
+                'managed': False,
+            },
+            bases=(models.Model,),
+        ),
+        migrations.CreateModel(
+            name='Parroquias',
+            fields=[
+            ],
+            options={
+                'db_table': 'parroquias',
+                'managed': False,
+            },
+            bases=(models.Model,),
+        ),
+        migrations.CreateModel(
+            name='Provincias',
+            fields=[
+            ],
+            options={
+                'db_table': 'provincias',
+                'managed': False,
+            },
+            bases=(models.Model,),
+        ),
+        migrations.CreateModel(
+            name='Sectores',
+            fields=[
+            ],
+            options={
+                'db_table': 'sectores',
+                'managed': False,
+            },
+            bases=(models.Model,),
+        ),
+        migrations.CreateModel(
+            name='Tipos',
+            fields=[
+            ],
+            options={
+                'db_table': 'tipos',
+                'managed': False,
             },
             bases=(models.Model,),
         ),
