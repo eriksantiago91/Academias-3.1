@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Lista de Centros con Plantilla</title>
+  </head>
+  <body>
+    <h1>Lista de centros</h1>
+    {% for centro in listaCentros %}
+    <ul>
+      <li><strong>{{centro.id}}</strong></li>
+      <li>{{centro.idparroquia}}</li>
+    </ul>
+    {% endfor %}
+  </body>
+</html>
